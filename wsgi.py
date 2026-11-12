@@ -1,3 +1,6 @@
 """WSGI application for production servers: wsgi:application."""
-from app import create_app
-application = create_app()
+# wsgi.py
+from app import app as application
+
+if __name__ == "__main__":
+    application.run()
