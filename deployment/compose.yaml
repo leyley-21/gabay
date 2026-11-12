@@ -1,0 +1,15 @@
+services:
+  web:
+    build:
+      context: ..
+    ports:
+      - "8080:8080"
+    environment:
+      HOST: "0.0.0.0"
+      PORT: "8080"
+      GABAY_DATABASE_PATH: /var/lib/als_gabay/als_gabay.db
+    volumes:
+      - career-data:/var/lib/als_gabay
+    restart: unless-stopped
+volumes:
+  career-data:

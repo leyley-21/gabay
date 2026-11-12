@@ -1,0 +1,4 @@
+# Replace careers.example.com with your domain and point its DNS at the server.
+careers.example.com {
+    reverse_proxy 127.0.0.1:8080
+}

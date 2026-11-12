@@ -1,0 +1,924 @@
+onet_code,occupation_title,qualifications,country,data_status,source_url,reviewed_on
+11-1011.00,Chief Executives,,PH,curated,,2026-11-12
+11-1011.03,Chief Sustainability Officers,,PH,curated,,2026-11-12
+11-1021.00,General and Operations Managers,,PH,curated,,2026-11-12
+11-1031.00,Legislators,,PH,curated,,2026-10-31
+11-2011.00,Advertising and Promotions Managers,Digital Marketing Level III | Manage Internet Marketing Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/DIGITAL-MARKETING-PQF-LEVEL-III.pdf,2026-11-12
+11-2021.00,Marketing Managers,Digital Marketing Level III | Manage Internet Marketing Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/DIGITAL-MARKETING-PQF-LEVEL-III.pdf,2026-11-12
+11-2022.00,Sales Managers,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+11-2032.00,Public Relations Managers,Digital Marketing Level III | Manage Internet Marketing Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/DIGITAL-MARKETING-PQF-LEVEL-III.pdf,2026-11-12
+11-2033.00,Fundraising Managers,,PH,curated,,2026-10-31
+11-3012.00,Administrative Services Managers,,PH,curated,,2026-10-31
+11-3013.00,Facilities Managers,,PH,curated,,2026-10-31
+11-3013.01,Security Managers,,PH,curated,,2026-10-31
+11-3021.00,Computer and Information Systems Managers,Computer Systems Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-10-31
+11-3031.00,Financial Managers,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+11-3031.01,Treasurers and Controllers,,PH,curated,,2026-10-31
+11-3031.03,Investment Fund Managers,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+11-3051.00,Industrial Production Managers,,PH,curated,,2026-10-31
+11-3051.01,Quality Control Systems Managers,,PH,curated,,2026-10-31
+11-3051.02,Geothermal Production Managers,,PH,curated,,2026-10-31
+11-3051.03,Biofuels Production Managers,,PH,curated,,2026-10-31
+11-3051.04,Biomass Power Plant Managers,,PH,curated,,2026-10-31
+11-3051.06,Hydroelectric Production Managers,,PH,curated,,2026-10-31
+11-3061.00,Purchasing Managers,Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+11-3071.00,"Transportation, Storage, and Distribution Managers",,PH,curated,,2026-10-31
+11-3071.04,Supply Chain Managers,Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+11-3111.00,Compensation and Benefits Managers,,PH,curated,,2026-10-31
+11-3121.00,Human Resources Managers,,PH,curated,,2026-10-31
+11-3131.00,Training and Development Managers,,PH,curated,,2026-10-31
+11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",Agricultural Crops Production NC I | Agricultural Crops Production NC II | Agricultural Crops Production NC III | Organic Agriculture Production NC II | Agricultural Machinery Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Agricultural%20Crops%20Production%20NC%20I.pdf,2026-11-12
+11-9021.00,Construction Managers,Technical Drafting NC II | Construction Site Supervision Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-11-12
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",Early Childhood Care and Development Services NC III | Caregiving (Newborn to Pre-Schooler) NC II | Caregiving (Grade Schooler to Adolescent) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Early%20Childhood%20Care%20and%20Development%20Services%20NC%20III%20v2%20-%20CSDD%20QSO.pdf,2026-11-12
+11-9032.00,"Education Administrators, Kindergarten through Secondary",Early Childhood Care and Development Services NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Early%20Childhood%20Care%20and%20Development%20Services%20NC%20III%20v2%20-%20CSDD%20QSO.pdf,2026-10-31
+11-9033.00,"Education Administrators, Postsecondary",,PH,curated,,2026-10-31
+11-9041.00,Architectural and Engineering Managers,Technical Drafting NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-10-31
+11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,,PH,curated,,2026-10-31
+11-9051.00,Food Service Managers,Food and Beverage Services NC II | Food and Beverage Services NC III | Bartending NC II | Barista NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Food%20and%20Beverage%20Services%20NC%20II%20ver2.pdf,2026-11-12
+11-9071.00,Gambling Managers,,PH,curated,,2026-10-31
+11-9072.00,"Entertainment and Recreation Managers, Except Gambling",,PH,curated,,2026-10-31
+11-9081.00,Lodging Managers,Housekeeping NC II | Housekeeping NC III | Housekeeping NC IV | Front Office Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Housekeeping%20NC%20II.pdf,2026-11-12
+11-9111.00,Medical and Health Services Managers,,PH,curated,,2026-10-31
+11-9121.00,Natural Sciences Managers,,PH,curated,,2026-10-31
+11-9121.01,Clinical Research Coordinators,,PH,curated,,2026-10-31
+11-9121.02,Water Resource Specialists,,PH,curated,,2026-10-31
+11-9131.00,Postmasters and Mail Superintendents,,PH,curated,,2026-10-31
+11-9141.00,"Property, Real Estate, and Community Association Managers",,PH,curated,,2026-10-31
+11-9151.00,Social and Community Service Managers,Community Nutrition Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Community%20Nutrition%20Services%20NC%20II%20v2.pdf,2026-10-31
+11-9161.00,Emergency Management Directors,,PH,curated,,2026-10-31
+11-9171.00,Funeral Home Managers,,PH,curated,,2026-10-31
+11-9179.01,Fitness and Wellness Coordinators,,PH,curated,,2026-10-31
+11-9179.02,Spa Managers,,PH,curated,,2026-10-31
+11-9199.01,Regulatory Affairs Managers,,PH,curated,,2026-10-31
+11-9199.02,Compliance Managers,,PH,curated,,2026-10-31
+11-9199.08,Loss Prevention Managers,,PH,curated,,2026-10-31
+11-9199.09,Wind Energy Operations Managers,,PH,curated,,2026-10-31
+11-9199.10,Wind Energy Development Managers,,PH,curated,,2026-10-31
+11-9199.11,Brownfield Redevelopment Specialists and Site Managers,,PH,curated,,2026-10-31
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+13-1031.00,"Claims Adjusters, Examiners, and Investigators",,PH,curated,,2026-10-31
+13-1032.00,"Insurance Appraisers, Auto Damage",,PH,curated,,2026-10-31
+13-1041.00,Compliance Officers,Contact Center Services NC II | Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+13-1041.01,Environmental Compliance Inspectors,,PH,curated,,2026-10-31
+13-1041.03,Equal Opportunity Representatives and Officers,Contact Center Services NC II | Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+13-1041.04,Government Property Inspectors and Investigators,,PH,curated,,2026-10-31
+13-1041.06,Coroners,,PH,curated,,2026-10-31
+13-1041.07,Regulatory Affairs Specialists,,PH,curated,,2026-10-31
+13-1041.08,Customs Brokers,Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+13-1051.00,Cost Estimators,,PH,curated,,2026-10-31
+13-1071.00,Human Resources Specialists,,PH,curated,,2026-10-31
+13-1074.00,Farm Labor Contractors,,PH,curated,,2026-10-31
+13-1075.00,Labor Relations Specialists,,PH,curated,,2026-10-31
+13-1081.00,Logisticians,Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+13-1081.01,Logistics Engineers,Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+13-1081.02,Logistics Analysts,Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+13-1082.00,Project Management Specialists,,PH,curated,,2026-10-31
+13-1111.00,Management Analysts,,PH,curated,,2026-10-31
+13-1121.00,"Meeting, Convention, and Event Planners",,PH,curated,,2026-10-31
+13-1131.00,Fundraisers,,PH,curated,,2026-10-31
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",,PH,curated,,2026-10-31
+13-1151.00,Training and Development Specialists,,PH,curated,,2026-10-31
+13-1161.00,Market Research Analysts and Marketing Specialists,Digital Marketing Level III | Manage Internet Marketing Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/DIGITAL-MARKETING-PQF-LEVEL-III.pdf,2026-11-12
+13-1161.01,Search Marketing Strategists,Digital Marketing Level III | Manage Internet Marketing Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/DIGITAL-MARKETING-PQF-LEVEL-III.pdf,2026-11-12
+13-1199.04,Business Continuity Planners,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+13-1199.05,Sustainability Specialists,,PH,curated,,2026-10-31
+13-1199.06,Online Merchants,,PH,curated,,2026-10-31
+13-1199.07,Security Management Specialists,,PH,curated,,2026-10-31
+13-2011.00,Accountants and Auditors,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+13-2022.00,Appraisers of Personal and Business Property,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+13-2023.00,Appraisers and Assessors of Real Estate,,PH,curated,,2026-10-31
+13-2031.00,Budget Analysts,,PH,curated,,2026-10-31
+13-2041.00,Credit Analysts,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+13-2051.00,Financial and Investment Analysts,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+13-2052.00,Personal Financial Advisors,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+13-2053.00,Insurance Underwriters,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+13-2054.00,Financial Risk Specialists,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+13-2061.00,Financial Examiners,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+13-2071.00,Credit Counselors,Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-10-31
+13-2072.00,Loan Officers,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",,PH,curated,,2026-10-31
+13-2082.00,Tax Preparers,,PH,curated,,2026-10-31
+13-2099.01,Financial Quantitative Analysts,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+13-2099.04,"Fraud Examiners, Investigators and Analysts",,PH,curated,,2026-10-31
+15-1211.00,Computer Systems Analysts,Computer Systems Servicing NC II | Cyber Threat Monitoring NC I,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-11-12
+15-1211.01,Health Informatics Specialists,,PH,curated,,2026-10-31
+15-1212.00,Information Security Analysts,Cyber Threat Monitoring NC I | Cyber Threat Mitigation NC II | Computer Security Incident Handling Level I | Computer Security Incident Handling Level II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Cyber%20Threat%20Monitoring%20NC%20I.pdf,2026-11-12
+15-1221.00,Computer and Information Research Scientists,Programming (JAVA) NC III | Programming (.Net Technology) NC III | Programming (Python) Level III | Web Development NC III | Programming (Oracle Database) NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Programming%20(JAVA)%20NC%20III%20ver%202.pdf.pdf,2026-11-12
+15-1231.00,Computer Network Support Specialists,Computer Systems Servicing NC II | Cyber Threat Monitoring NC I,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-11-12
+15-1232.00,Computer User Support Specialists,Computer Systems Servicing NC II | Cyber Threat Monitoring NC I,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-11-12
+15-1241.00,Computer Network Architects,Computer Systems Servicing NC II | Cyber Threat Monitoring NC I,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-11-12
+15-1241.01,Telecommunications Engineering Specialists,Electronic Products Assembly and Servicing NC II | Computer Systems Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electronic%20Products%20Assembly%20and%20Servicing%20NC%20II.pdf,2026-11-12
+15-1242.00,Database Administrators,Programming (Oracle Database) NC III | Programming (Python) Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Programming%20(Oracle%20Database)%20NC%20III.pdf,2026-11-12
+15-1243.00,Database Architects,Programming (Oracle Database) NC III | Programming (Python) Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Programming%20(Oracle%20Database)%20NC%20III.pdf,2026-11-12
+15-1243.01,Data Warehousing Specialists,Programming (Oracle Database) NC III | Programming (Python) Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Programming%20(Oracle%20Database)%20NC%20III.pdf,2026-11-12
+15-1244.00,Network and Computer Systems Administrators,Computer Systems Servicing NC II | Cyber Threat Monitoring NC I,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-11-12
+15-1251.00,Computer Programmers,Programming (JAVA) NC III | Programming (.Net Technology) NC III | Programming (Python) Level III | Web Development NC III | Programming (Oracle Database) NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Programming%20(JAVA)%20NC%20III%20ver%202.pdf.pdf,2026-11-12
+15-1252.00,Software Developers,Programming (JAVA) NC III | Programming (.Net Technology) NC III | Programming (Python) Level III | Web Development NC III | Programming (Oracle Database) NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Programming%20(JAVA)%20NC%20III%20ver%202.pdf.pdf,2026-11-12
+15-1253.00,Software Quality Assurance Analysts and Testers,Programming (JAVA) NC III | Programming (.Net Technology) NC III | Programming (Python) Level III | Web Development NC III | Programming (Oracle Database) NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Programming%20(JAVA)%20NC%20III%20ver%202.pdf.pdf,2026-11-12
+15-1254.00,Web Developers,Web Development NC III | Programming (JAVA) NC III | Programming (.Net Technology) NC III | Visual Graphic Design NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Web%20Development%20NC%20III.pdf,2026-11-12
+15-1255.00,Web and Digital Interface Designers,Web Development NC III | Programming (JAVA) NC III | Programming (.Net Technology) NC III | Visual Graphic Design NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Web%20Development%20NC%20III.pdf,2026-11-12
+15-1255.01,Video Game Designers,Game Programming NC III | 2D Game Art Development NC III | 3D Game Art Development NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Game%20Programming%20NC%20III.pdf,2026-11-12
+15-1299.01,Web Administrators,Computer Systems Servicing NC II | Cyber Threat Monitoring NC I,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-11-12
+15-1299.02,Geographic Information Systems Technologists and Technicians,,PH,curated,,2026-10-31
+15-1299.03,Document Management Specialists,,PH,curated,,2026-10-31
+15-1299.04,Penetration Testers,Cyber Threat Monitoring NC I | Cyber Threat Mitigation NC II | Computer Security Incident Handling Level I | Computer Security Incident Handling Level II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Cyber%20Threat%20Monitoring%20NC%20I.pdf,2026-11-12
+15-1299.05,Information Security Engineers,Cyber Threat Monitoring NC I | Cyber Threat Mitigation NC II | Computer Security Incident Handling Level I | Computer Security Incident Handling Level II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Cyber%20Threat%20Monitoring%20NC%20I.pdf,2026-11-12
+15-1299.06,Digital Forensics Analysts,Cyber Threat Monitoring NC I | Cyber Threat Mitigation NC II | Computer Security Incident Handling Level I | Computer Security Incident Handling Level II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Cyber%20Threat%20Monitoring%20NC%20I.pdf,2026-11-12
+15-1299.07,Blockchain Engineers,,PH,curated,,2026-10-31
+15-1299.08,Computer Systems Engineers/Architects,Computer Systems Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-10-31
+15-1299.09,Information Technology Project Managers,,PH,curated,,2026-10-31
+15-2011.00,Actuaries,Programming (Python) Level III | Data Analytics Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/CS-Programming-Python-Level-III%20-%20CSDD%20QSO.pdf,2026-11-12
+15-2021.00,Mathematicians,Programming (Python) Level III | Data Analytics Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/CS-Programming-Python-Level-III%20-%20CSDD%20QSO.pdf,2026-11-12
+15-2031.00,Operations Research Analysts,Programming (Python) Level III | Data Analytics Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/CS-Programming-Python-Level-III%20-%20CSDD%20QSO.pdf,2026-11-12
+15-2041.00,Statisticians,Programming (Python) Level III | Data Analytics Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/CS-Programming-Python-Level-III%20-%20CSDD%20QSO.pdf,2026-11-12
+15-2041.01,Biostatisticians,Programming (Python) Level III | Data Analytics Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/CS-Programming-Python-Level-III%20-%20CSDD%20QSO.pdf,2026-11-12
+15-2051.00,Data Scientists,Programming (Python) Level III | Data Analytics Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/CS-Programming-Python-Level-III%20-%20CSDD%20QSO.pdf,2026-11-12
+15-2051.01,Business Intelligence Analysts,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+15-2051.02,Clinical Data Managers,,PH,curated,,2026-10-31
+15-2099.01,Bioinformatics Technicians,,PH,curated,,2026-10-31
+17-1011.00,"Architects, Except Landscape and Naval",Technical Drafting NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-10-31
+17-1012.00,Landscape Architects,Technical Drafting NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-10-31
+17-1021.00,Cartographers and Photogrammetrists,,PH,curated,,2026-10-31
+17-1022.00,Surveyors,Technical Drafting NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-10-31
+17-1022.01,Geodetic Surveyors,Technical Drafting NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-10-31
+17-2011.00,Aerospace Engineers,,PH,curated,,2026-10-31
+17-2021.00,Agricultural Engineers,Agricultural Crops Production NC I | Agricultural Crops Production NC II | Agricultural Crops Production NC III | Organic Agriculture Production NC II | Agricultural Machinery Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Agricultural%20Crops%20Production%20NC%20I.pdf,2026-11-12
+17-2031.00,Bioengineers and Biomedical Engineers,,PH,curated,,2026-10-31
+17-2041.00,Chemical Engineers,,PH,curated,,2026-10-31
+17-2051.00,Civil Engineers,Technical Drafting NC II | Construction Site Supervision Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-11-12
+17-2051.01,Transportation Engineers,,PH,curated,,2026-10-31
+17-2051.02,Water/Wastewater Engineers,,PH,curated,,2026-10-31
+17-2061.00,Computer Hardware Engineers,Computer Systems Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-10-31
+17-2071.00,Electrical Engineers,Electrical Installation and Maintenance NC II | Electrical Installation and Maintenance NC III | Electrical Installation and Maintenance NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electrical%20Installation%20and%20Maintenance%20NC%20II.pdf,2026-11-12
+17-2072.00,"Electronics Engineers, Except Computer",Electronic Products Assembly and Servicing NC II | Computer Systems Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electronic%20Products%20Assembly%20and%20Servicing%20NC%20II.pdf,2026-11-12
+17-2072.01,Radio Frequency Identification Device Specialists,,PH,curated,,2026-10-31
+17-2081.00,Environmental Engineers,,PH,curated,,2026-10-31
+17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",,PH,curated,,2026-10-31
+17-2111.02,Fire-Prevention and Protection Engineers,,PH,curated,,2026-10-31
+17-2112.00,Industrial Engineers,Technical Drafting NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-10-31
+17-2112.01,Human Factors Engineers and Ergonomists,,PH,curated,,2026-10-31
+17-2112.02,Validation Engineers,,PH,curated,,2026-10-31
+17-2112.03,Manufacturing Engineers,,PH,curated,,2026-10-31
+17-2121.00,Marine Engineers and Naval Architects,Technical Drafting NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-10-31
+17-2131.00,Materials Engineers,,PH,curated,,2026-10-31
+17-2141.00,Mechanical Engineers,Technical Drafting NC II | Mechanical Drafting NC I | CNC Milling Machine Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-11-12
+17-2141.01,Fuel Cell Engineers,,PH,curated,,2026-10-31
+17-2141.02,Automotive Engineers,Automotive Servicing (Engine Repair) NC II | Automotive Servicing (Chassis Repair) NC II | Automotive Servicing (Electrical Repair) NC II | Automotive Diagnosis (Engine) NC III | Automotive Diagnosis (Chassis) NC III | Automotive Servicing NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Automotive%20Servicing%20(Engine%20Repair)%20NC%20II%20v2.pdf,2026-11-12
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",,PH,curated,,2026-10-31
+17-2161.00,Nuclear Engineers,,PH,curated,,2026-10-31
+17-2171.00,Petroleum Engineers,,PH,curated,,2026-10-31
+17-2199.03,"Energy Engineers, Except Wind and Solar",,PH,curated,,2026-10-31
+17-2199.05,Mechatronics Engineers,,PH,curated,,2026-10-31
+17-2199.06,Microsystems Engineers,,PH,curated,,2026-10-31
+17-2199.07,Photonics Engineers,,PH,curated,,2026-10-31
+17-2199.08,Robotics Engineers,,PH,curated,,2026-10-31
+17-2199.09,Nanosystems Engineers,,PH,curated,,2026-10-31
+17-2199.10,Wind Energy Engineers,,PH,curated,,2026-10-31
+17-2199.11,Solar Energy Systems Engineers,,PH,curated,,2026-10-31
+17-3011.00,Architectural and Civil Drafters,Technical Drafting NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-10-31
+17-3012.00,Electrical and Electronics Drafters,Electronic Products Assembly and Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electronic%20Products%20Assembly%20and%20Servicing%20NC%20II.pdf,2026-10-31
+17-3013.00,Mechanical Drafters,,PH,curated,,2026-10-31
+17-3021.00,Aerospace Engineering and Operations Technologists and Technicians,,PH,curated,,2026-10-31
+17-3022.00,Civil Engineering Technologists and Technicians,Technical Drafting NC II | Construction Site Supervision Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-11-12
+17-3023.00,Electrical and Electronic Engineering Technologists and Technicians,Electronic Products Assembly and Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electronic%20Products%20Assembly%20and%20Servicing%20NC%20II.pdf,2026-10-31
+17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,,PH,curated,,2026-10-31
+17-3024.01,Robotics Technicians,,PH,curated,,2026-10-31
+17-3025.00,Environmental Engineering Technologists and Technicians,,PH,curated,,2026-10-31
+17-3026.00,Industrial Engineering Technologists and Technicians,Technical Drafting NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-10-31
+17-3026.01,Nanotechnology Engineering Technologists and Technicians,,PH,curated,,2026-10-31
+17-3027.00,Mechanical Engineering Technologists and Technicians,Technical Drafting NC II | Mechanical Drafting NC I | CNC Milling Machine Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-11-12
+17-3027.01,Automotive Engineering Technicians,Automotive Servicing (Engine Repair) NC II | Automotive Servicing (Chassis Repair) NC II | Automotive Servicing (Electrical Repair) NC II | Automotive Diagnosis (Engine) NC III | Automotive Diagnosis (Chassis) NC III | Automotive Servicing NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Automotive%20Servicing%20(Engine%20Repair)%20NC%20II%20v2.pdf,2026-11-12
+17-3028.00,Calibration Technologists and Technicians,,PH,curated,,2026-10-31
+17-3029.01,Non-Destructive Testing Specialists,,PH,curated,,2026-10-31
+17-3029.08,Photonics Technicians,,PH,curated,,2026-10-31
+17-3031.00,Surveying and Mapping Technicians,Technical Drafting NC II | Construction Site Supervision Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-11-12
+19-1011.00,Animal Scientists,,PH,curated,,2026-10-31
+19-1012.00,Food Scientists and Technologists,Food Processing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-FOOD%20PROCESSING%20NC%20II%20ver%202.pdf,2026-10-31
+19-1013.00,Soil and Plant Scientists,,PH,curated,,2026-10-31
+19-1021.00,Biochemists and Biophysicists,,PH,curated,,2026-10-31
+19-1022.00,Microbiologists,,PH,curated,,2026-10-31
+19-1023.00,Zoologists and Wildlife Biologists,,PH,curated,,2026-10-31
+19-1029.01,Bioinformatics Scientists,,PH,curated,,2026-10-31
+19-1029.02,Molecular and Cellular Biologists,,PH,curated,,2026-10-31
+19-1029.03,Geneticists,,PH,curated,,2026-10-31
+19-1029.04,Biologists,,PH,curated,,2026-10-31
+19-1031.00,Conservation Scientists,,PH,curated,,2026-10-31
+19-1031.02,Range Managers,,PH,curated,,2026-10-31
+19-1031.03,Park Naturalists,,PH,curated,,2026-10-31
+19-1032.00,Foresters,,PH,curated,,2026-10-31
+19-1041.00,Epidemiologists,,PH,curated,,2026-10-31
+19-1042.00,"Medical Scientists, Except Epidemiologists",,PH,curated,,2026-10-31
+19-2011.00,Astronomers,,PH,curated,,2026-10-31
+19-2012.00,Physicists,,PH,curated,,2026-10-31
+19-2021.00,Atmospheric and Space Scientists,,PH,curated,,2026-10-31
+19-2031.00,Chemists,,PH,curated,,2026-10-31
+19-2032.00,Materials Scientists,,PH,curated,,2026-10-31
+19-2041.00,"Environmental Scientists and Specialists, Including Health",,PH,curated,,2026-10-31
+19-2041.01,Climate Change Policy Analysts,,PH,curated,,2026-10-31
+19-2041.02,Environmental Restoration Planners,,PH,curated,,2026-10-31
+19-2041.03,Industrial Ecologists,,PH,curated,,2026-10-31
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",,PH,curated,,2026-10-31
+19-2043.00,Hydrologists,,PH,curated,,2026-10-31
+19-2099.01,Remote Sensing Scientists and Technologists,,PH,curated,,2026-10-31
+19-3011.00,Economists,,PH,curated,,2026-10-31
+19-3011.01,Environmental Economists,,PH,curated,,2026-10-31
+19-3022.00,Survey Researchers,,PH,curated,,2026-10-31
+19-3032.00,Industrial-Organizational Psychologists,,PH,curated,,2026-10-31
+19-3033.00,Clinical and Counseling Psychologists,,PH,curated,,2026-10-31
+19-3034.00,School Psychologists,,PH,curated,,2026-10-31
+19-3039.02,Neuropsychologists,,PH,curated,,2026-10-31
+19-3039.03,Clinical Neuropsychologists,,PH,curated,,2026-10-31
+19-3041.00,Sociologists,,PH,curated,,2026-10-31
+19-3051.00,Urban and Regional Planners,,PH,curated,,2026-10-31
+19-3091.00,Anthropologists and Archeologists,,PH,curated,,2026-10-31
+19-3092.00,Geographers,,PH,curated,,2026-10-31
+19-3093.00,Historians,,PH,curated,,2026-10-31
+19-3094.00,Political Scientists,,PH,curated,,2026-10-31
+19-3099.01,Transportation Planners,,PH,curated,,2026-10-31
+19-4012.00,Agricultural Technicians,Agricultural Crops Production NC I | Agricultural Crops Production NC II | Agricultural Crops Production NC III | Organic Agriculture Production NC II | Agricultural Machinery Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Agricultural%20Crops%20Production%20NC%20I.pdf,2026-11-12
+19-4012.01,Precision Agriculture Technicians,Agricultural Crops Production NC I | Agricultural Crops Production NC II | Agricultural Crops Production NC III | Organic Agriculture Production NC II | Agricultural Machinery Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Agricultural%20Crops%20Production%20NC%20I.pdf,2026-11-12
+19-4013.00,Food Science Technicians,,PH,curated,,2026-10-31
+19-4021.00,Biological Technicians,,PH,curated,,2026-10-31
+19-4031.00,Chemical Technicians,,PH,curated,,2026-10-31
+19-4042.00,"Environmental Science and Protection Technicians, Including Health",,PH,curated,,2026-10-31
+19-4043.00,"Geological Technicians, Except Hydrologic Technicians",,PH,curated,,2026-10-31
+19-4044.00,Hydrologic Technicians,,PH,curated,,2026-10-31
+19-4051.00,Nuclear Technicians,,PH,curated,,2026-10-31
+19-4051.02,Nuclear Monitoring Technicians,,PH,curated,,2026-10-31
+19-4061.00,Social Science Research Assistants,,PH,curated,,2026-10-31
+19-4071.00,Forest and Conservation Technicians,,PH,curated,,2026-10-31
+19-4092.00,Forensic Science Technicians,,PH,curated,,2026-10-31
+19-4099.01,Quality Control Analysts,,PH,curated,,2026-10-31
+19-4099.03,Remote Sensing Technicians,,PH,curated,,2026-10-31
+19-5011.00,Occupational Health and Safety Specialists,,PH,curated,,2026-10-31
+19-5012.00,Occupational Health and Safety Technicians,,PH,curated,,2026-10-31
+21-1011.00,Substance Abuse and Behavioral Disorder Counselors,,PH,curated,,2026-10-31
+21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",,PH,curated,,2026-10-31
+21-1013.00,Marriage and Family Therapists,,PH,curated,,2026-10-31
+21-1014.00,Mental Health Counselors,,PH,curated,,2026-10-31
+21-1015.00,Rehabilitation Counselors,,PH,curated,,2026-10-31
+21-1021.00,"Child, Family, and School Social Workers",Community Nutrition Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Community%20Nutrition%20Services%20NC%20II%20v2.pdf,2026-10-31
+21-1022.00,Healthcare Social Workers,Community Nutrition Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Community%20Nutrition%20Services%20NC%20II%20v2.pdf,2026-10-31
+21-1023.00,Mental Health and Substance Abuse Social Workers,Community Nutrition Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Community%20Nutrition%20Services%20NC%20II%20v2.pdf,2026-10-31
+21-1091.00,Health Education Specialists,,PH,curated,,2026-10-31
+21-1092.00,Probation Officers and Correctional Treatment Specialists,Contact Center Services NC II | Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+21-1093.00,Social and Human Service Assistants,Community Nutrition Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Community%20Nutrition%20Services%20NC%20II%20v2.pdf,2026-10-31
+21-1094.00,Community Health Workers,Community Nutrition Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Community%20Nutrition%20Services%20NC%20II%20v2.pdf,2026-10-31
+21-2011.00,Clergy,,PH,curated,,2026-10-31
+21-2021.00,"Directors, Religious Activities and Education",,PH,curated,,2026-10-31
+23-1011.00,Lawyers,,PH,curated,,2026-10-31
+23-1012.00,Judicial Law Clerks,,PH,curated,,2026-10-31
+23-1021.00,"Administrative Law Judges, Adjudicators, and Hearing Officers",Contact Center Services NC II | Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+23-1022.00,"Arbitrators, Mediators, and Conciliators",,PH,curated,,2026-10-31
+23-1023.00,"Judges, Magistrate Judges, and Magistrates",,PH,curated,,2026-10-31
+23-2011.00,Paralegals and Legal Assistants,,PH,curated,,2026-10-31
+23-2093.00,"Title Examiners, Abstractors, and Searchers",,PH,curated,,2026-10-31
+25-1011.00,"Business Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1021.00,"Computer Science Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1022.00,"Mathematical Science Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1031.00,"Architecture Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1032.00,"Engineering Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1041.00,"Agricultural Sciences Teachers, Postsecondary",Agricultural Crops Production NC I | Agricultural Crops Production NC II | Agricultural Crops Production NC III | Organic Agriculture Production NC II | Agricultural Machinery Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Agricultural%20Crops%20Production%20NC%20I.pdf,2026-11-12
+25-1042.00,"Biological Science Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1052.00,"Chemistry Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1053.00,"Environmental Science Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1054.00,"Physics Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1061.00,"Anthropology and Archeology Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1063.00,"Economics Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1064.00,"Geography Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1065.00,"Political Science Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1066.00,"Psychology Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1067.00,"Sociology Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1071.00,"Health Specialties Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1072.00,"Nursing Instructors and Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1081.00,"Education Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1082.00,"Library Science Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1112.00,"Law Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1113.00,"Social Work Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1121.00,"Art, Drama, and Music Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1122.00,"Communications Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1123.00,"English Language and Literature Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1124.00,"Foreign Language and Literature Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1125.00,"History Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1126.00,"Philosophy and Religion Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1192.00,"Family and Consumer Sciences Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-1194.00,"Career/Technical Education Teachers, Postsecondary",,PH,curated,,2026-10-31
+25-2011.00,"Preschool Teachers, Except Special Education",Early Childhood Care and Development Services NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Early%20Childhood%20Care%20and%20Development%20Services%20NC%20III%20v2%20-%20CSDD%20QSO.pdf,2026-10-31
+25-2012.00,"Kindergarten Teachers, Except Special Education",Early Childhood Care and Development Services NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Early%20Childhood%20Care%20and%20Development%20Services%20NC%20III%20v2%20-%20CSDD%20QSO.pdf,2026-10-31
+25-2021.00,"Elementary School Teachers, Except Special Education",,PH,curated,,2026-10-31
+25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education",,PH,curated,,2026-10-31
+25-2023.00,"Career/Technical Education Teachers, Middle School",,PH,curated,,2026-10-31
+25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education",,PH,curated,,2026-10-31
+25-2032.00,"Career/Technical Education Teachers, Secondary School",,PH,curated,,2026-10-31
+25-2051.00,"Special Education Teachers, Preschool",Early Childhood Care and Development Services NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Early%20Childhood%20Care%20and%20Development%20Services%20NC%20III%20v2%20-%20CSDD%20QSO.pdf,2026-10-31
+25-2055.00,"Special Education Teachers, Kindergarten",Early Childhood Care and Development Services NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Early%20Childhood%20Care%20and%20Development%20Services%20NC%20III%20v2%20-%20CSDD%20QSO.pdf,2026-10-31
+25-2056.00,"Special Education Teachers, Elementary School",,PH,curated,,2026-10-31
+25-2057.00,"Special Education Teachers, Middle School",,PH,curated,,2026-10-31
+25-2058.00,"Special Education Teachers, Secondary School",,PH,curated,,2026-10-31
+25-2059.01,Adapted Physical Education Specialists,,PH,curated,,2026-10-31
+25-3011.00,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",,PH,curated,,2026-10-31
+25-3021.00,Self-Enrichment Teachers,,PH,curated,,2026-10-31
+25-3031.00,"Substitute Teachers, Short-Term",,PH,curated,,2026-10-31
+25-3041.00,Tutors,,PH,curated,,2026-10-31
+25-4011.00,Archivists,,PH,curated,,2026-10-31
+25-4012.00,Curators,,PH,curated,,2026-10-31
+25-4013.00,Museum Technicians and Conservators,,PH,curated,,2026-10-31
+25-4022.00,Librarians and Media Collections Specialists,,PH,curated,,2026-10-31
+25-4031.00,Library Technicians,,PH,curated,,2026-10-31
+25-9021.00,Farm and Home Management Educators,,PH,curated,,2026-10-31
+25-9031.00,Instructional Coordinators,,PH,curated,,2026-10-31
+25-9042.00,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",Early Childhood Care and Development Services NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Early%20Childhood%20Care%20and%20Development%20Services%20NC%20III%20v2%20-%20CSDD%20QSO.pdf,2026-10-31
+25-9043.00,"Teaching Assistants, Special Education",,PH,curated,,2026-10-31
+25-9044.00,"Teaching Assistants, Postsecondary",,PH,curated,,2026-10-31
+27-1011.00,Art Directors,Visual Graphic Design NC III | Illustration NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Visual%20Graphic%20Design%20NC%20III.pdf,2026-11-12
+27-1012.00,Craft Artists,Visual Graphic Design NC III | Illustration NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Visual%20Graphic%20Design%20NC%20III.pdf,2026-11-12
+27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators",Visual Graphic Design NC III | Illustration NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Visual%20Graphic%20Design%20NC%20III.pdf,2026-11-12
+27-1014.00,Special Effects Artists and Animators,Animation NC II | 2D Animation NC III | 3D Animation NC III | 2D Game Art Development NC III | 3D Game Art Development NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Animation%20NC%20II.pdf,2026-11-12
+27-1021.00,Commercial and Industrial Designers,Visual Graphic Design NC III | Illustration NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Visual%20Graphic%20Design%20NC%20III.pdf,2026-11-12
+27-1022.00,Fashion Designers,,PH,curated,,2026-10-31
+27-1023.00,Floral Designers,,PH,curated,,2026-10-31
+27-1024.00,Graphic Designers,Visual Graphic Design NC III | Illustration NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Visual%20Graphic%20Design%20NC%20III.pdf,2026-11-12
+27-1025.00,Interior Designers,Technical Drafting NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Technical%20drafting%20NC%20II.pdf,2026-10-31
+27-1026.00,Merchandise Displayers and Window Trimmers,,PH,curated,,2026-10-31
+27-1027.00,Set and Exhibit Designers,,PH,curated,,2026-10-31
+27-2011.00,Actors,,PH,curated,,2026-10-31
+27-2012.00,Producers and Directors,,PH,curated,,2026-10-31
+27-2012.03,Media Programming Directors,,PH,curated,,2026-10-31
+27-2012.04,Talent Directors,,PH,curated,,2026-10-31
+27-2012.05,Media Technical Directors/Managers,,PH,curated,,2026-10-31
+27-2021.00,Athletes and Sports Competitors,,PH,curated,,2026-10-31
+27-2022.00,Coaches and Scouts,,PH,curated,,2026-10-31
+27-2023.00,"Umpires, Referees, and Other Sports Officials",,PH,curated,,2026-10-31
+27-2031.00,Dancers,,PH,curated,,2026-10-31
+27-2032.00,Choreographers,,PH,curated,,2026-10-31
+27-2041.00,Music Directors and Composers,,PH,curated,,2026-10-31
+27-2042.00,Musicians and Singers,,PH,curated,,2026-10-31
+27-2091.00,"Disc Jockeys, Except Radio",,PH,curated,,2026-10-31
+27-3011.00,Broadcast Announcers and Radio Disc Jockeys,,PH,curated,,2026-10-31
+27-3023.00,"News Analysts, Reporters, and Journalists",,PH,curated,,2026-10-31
+27-3031.00,Public Relations Specialists,Digital Marketing Level III | Manage Internet Marketing Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/DIGITAL-MARKETING-PQF-LEVEL-III.pdf,2026-11-12
+27-3041.00,Editors,,PH,curated,,2026-10-31
+27-3042.00,Technical Writers,,PH,curated,,2026-10-31
+27-3043.00,Writers and Authors,,PH,curated,,2026-10-31
+27-3043.05,"Poets, Lyricists and Creative Writers",,PH,curated,,2026-10-31
+27-3091.00,Interpreters and Translators,,PH,curated,,2026-10-31
+27-3092.00,Court Reporters and Simultaneous Captioners,,PH,curated,,2026-10-31
+27-4011.00,Audio and Video Technicians,,PH,curated,,2026-10-31
+27-4012.00,Broadcast Technicians,,PH,curated,,2026-10-31
+27-4014.00,Sound Engineering Technicians,,PH,curated,,2026-10-31
+27-4015.00,Lighting Technicians,,PH,curated,,2026-10-31
+27-4021.00,Photographers,Photography NC II | Visual Graphic Design NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Photography%20NC%20II.pdf,2026-11-12
+27-4031.00,"Camera Operators, Television, Video, and Film",Photography NC II | Visual Graphic Design NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Photography%20NC%20II.pdf,2026-11-12
+27-4032.00,Film and Video Editors,Photography NC II | Visual Graphic Design NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Photography%20NC%20II.pdf,2026-11-12
+29-1011.00,Chiropractors,,PH,curated,,2026-10-31
+29-1021.00,"Dentists, General",Dental Laboratory Technology Services NC I,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Dental%20Laboratory%20Technology%20Services%20NC%20I.pdf,2026-10-31
+29-1022.00,Oral and Maxillofacial Surgeons,,PH,curated,,2026-10-31
+29-1023.00,Orthodontists,,PH,curated,,2026-10-31
+29-1024.00,Prosthodontists,,PH,curated,,2026-10-31
+29-1031.00,Dietitians and Nutritionists,Community Nutrition Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Community%20Nutrition%20Services%20NC%20II%20v2.pdf,2026-11-01
+29-1041.00,Optometrists,,PH,curated,,2026-10-31
+29-1051.00,Pharmacists,Pharmacy Services NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Pharmacy%20Services%20NC%20III.pdf,2026-10-31
+29-1071.00,Physician Assistants,,PH,curated,,2026-10-31
+29-1071.01,Anesthesiologist Assistants,,PH,curated,,2026-10-31
+29-1081.00,Podiatrists,,PH,curated,,2026-10-31
+29-1122.00,Occupational Therapists,,PH,curated,,2026-10-31
+29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",,PH,curated,,2026-10-31
+29-1123.00,Physical Therapists,,PH,curated,,2026-10-31
+29-1124.00,Radiation Therapists,,PH,curated,,2026-10-31
+29-1125.00,Recreational Therapists,,PH,curated,,2026-10-31
+29-1126.00,Respiratory Therapists,,PH,curated,,2026-10-31
+29-1127.00,Speech-Language Pathologists,,PH,curated,,2026-10-31
+29-1128.00,Exercise Physiologists,,PH,curated,,2026-10-31
+29-1129.01,Art Therapists,,PH,curated,,2026-10-31
+29-1129.02,Music Therapists,,PH,curated,,2026-10-31
+29-1131.00,Veterinarians,Animal Health Care and Management NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Animal%20Health%20Care%20and%20Management%20NC%20III.pdf,2026-10-31
+29-1141.00,Registered Nurses,,PH,curated,,2026-10-31
+29-1141.01,Acute Care Nurses,,PH,curated,,2026-10-31
+29-1141.02,Advanced Practice Psychiatric Nurses,,PH,curated,,2026-10-31
+29-1141.03,Critical Care Nurses,,PH,curated,,2026-10-31
+29-1141.04,Clinical Nurse Specialists,,PH,curated,,2026-10-31
+29-1151.00,Nurse Anesthetists,,PH,curated,,2026-10-31
+29-1161.00,Nurse Midwives,,PH,curated,,2026-10-31
+29-1171.00,Nurse Practitioners,,PH,curated,,2026-10-31
+29-1181.00,Audiologists,,PH,curated,,2026-10-31
+29-1211.00,Anesthesiologists,,PH,curated,,2026-10-31
+29-1212.00,Cardiologists,,PH,curated,,2026-10-31
+29-1213.00,Dermatologists,,PH,curated,,2026-10-31
+29-1214.00,Emergency Medicine Physicians,,PH,curated,,2026-10-31
+29-1215.00,Family Medicine Physicians,,PH,curated,,2026-10-31
+29-1216.00,General Internal Medicine Physicians,,PH,curated,,2026-10-31
+29-1217.00,Neurologists,,PH,curated,,2026-10-31
+29-1218.00,Obstetricians and Gynecologists,,PH,curated,,2026-10-31
+29-1221.00,"Pediatricians, General",,PH,curated,,2026-10-31
+29-1222.00,"Physicians, Pathologists",,PH,curated,,2026-10-31
+29-1223.00,Psychiatrists,,PH,curated,,2026-10-31
+29-1224.00,Radiologists,,PH,curated,,2026-10-31
+29-1229.01,Allergists and Immunologists,,PH,curated,,2026-10-31
+29-1229.02,Hospitalists,,PH,curated,,2026-10-31
+29-1229.03,Urologists,,PH,curated,,2026-10-31
+29-1229.04,Physical Medicine and Rehabilitation Physicians,,PH,curated,,2026-10-31
+29-1229.05,Preventive Medicine Physicians,,PH,curated,,2026-10-31
+29-1229.06,Sports Medicine Physicians,,PH,curated,,2026-10-31
+29-1241.00,"Ophthalmologists, Except Pediatric",,PH,curated,,2026-10-31
+29-1242.00,"Orthopedic Surgeons, Except Pediatric",,PH,curated,,2026-10-31
+29-1243.00,Pediatric Surgeons,,PH,curated,,2026-10-31
+29-1291.00,Acupuncturists,,PH,curated,,2026-10-31
+29-1292.00,Dental Hygienists,Dental Laboratory Technology Services NC I,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Dental%20Laboratory%20Technology%20Services%20NC%20I.pdf,2026-10-31
+29-1299.01,Naturopathic Physicians,,PH,curated,,2026-10-31
+29-1299.02,Orthoptists,,PH,curated,,2026-10-31
+29-2011.00,Medical and Clinical Laboratory Technologists,,PH,curated,,2026-10-31
+29-2011.01,Cytogenetic Technologists,,PH,curated,,2026-10-31
+29-2011.02,Cytotechnologists,,PH,curated,,2026-10-31
+29-2011.04,Histotechnologists,,PH,curated,,2026-10-31
+29-2012.00,Medical and Clinical Laboratory Technicians,,PH,curated,,2026-10-31
+29-2012.01,Histology Technicians,,PH,curated,,2026-10-31
+29-2031.00,Cardiovascular Technologists and Technicians,,PH,curated,,2026-10-31
+29-2032.00,Diagnostic Medical Sonographers,,PH,curated,,2026-10-31
+29-2033.00,Nuclear Medicine Technologists,,PH,curated,,2026-10-31
+29-2034.00,Radiologic Technologists and Technicians,,PH,curated,,2026-10-31
+29-2035.00,Magnetic Resonance Imaging Technologists,,PH,curated,,2026-10-31
+29-2036.00,Medical Dosimetrists,,PH,curated,,2026-10-31
+29-2042.00,Emergency Medical Technicians,,PH,curated,,2026-10-31
+29-2043.00,Paramedics,,PH,curated,,2026-10-31
+29-2051.00,Dietetic Technicians,Community Nutrition Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Community%20Nutrition%20Services%20NC%20II%20v2.pdf,2026-11-01
+29-2052.00,Pharmacy Technicians,Pharmacy Services NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Pharmacy%20Services%20NC%20III.pdf,2026-10-31
+29-2053.00,Psychiatric Technicians,,PH,curated,,2026-10-31
+29-2055.00,Surgical Technologists,,PH,curated,,2026-10-31
+29-2056.00,Veterinary Technologists and Technicians,Animal Health Care and Management NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Animal%20Health%20Care%20and%20Management%20NC%20III.pdf,2026-10-31
+29-2057.00,Ophthalmic Medical Technicians,,PH,curated,,2026-10-31
+29-2061.00,Licensed Practical and Licensed Vocational Nurses,,PH,curated,,2026-10-31
+29-2072.00,Medical Records Specialists,,PH,curated,,2026-10-31
+29-2081.00,"Opticians, Dispensing",,PH,curated,,2026-10-31
+29-2091.00,Orthotists and Prosthetists,,PH,curated,,2026-10-31
+29-2092.00,Hearing Aid Specialists,,PH,curated,,2026-10-31
+29-2099.01,Neurodiagnostic Technologists,,PH,curated,,2026-10-31
+29-2099.05,Ophthalmic Medical Technologists,,PH,curated,,2026-10-31
+29-2099.08,Patient Representatives,,PH,curated,,2026-10-31
+29-9021.00,Health Information Technologists and Medical Registrars,,PH,curated,,2026-10-31
+29-9091.00,Athletic Trainers,,PH,curated,,2026-10-31
+29-9092.00,Genetic Counselors,,PH,curated,,2026-10-31
+29-9093.00,Surgical Assistants,,PH,curated,,2026-10-31
+29-9099.01,Midwives,,PH,curated,,2026-10-31
+31-1121.00,Home Health Aides,Caregiving NC II | Caregiving (Elderly) NC II | Caregiving (Clients with Special Needs) NC II | Caregiving (Newborn to Pre-Schooler) NC II | Health Care Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Caregiving%20NC%20II.pdf,2026-11-12
+31-1122.00,Personal Care Aides,Caregiving NC II | Caregiving (Elderly) NC II | Caregiving (Clients with Special Needs) NC II | Caregiving (Newborn to Pre-Schooler) NC II | Health Care Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Caregiving%20NC%20II.pdf,2026-11-12
+31-1131.00,Nursing Assistants,Caregiving NC II | Caregiving (Elderly) NC II | Caregiving (Clients with Special Needs) NC II | Caregiving (Newborn to Pre-Schooler) NC II | Health Care Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Caregiving%20NC%20II.pdf,2026-11-12
+31-1132.00,Orderlies,,PH,curated,,2026-10-31
+31-1133.00,Psychiatric Aides,,PH,curated,,2026-10-31
+31-2011.00,Occupational Therapy Assistants,,PH,curated,,2026-10-31
+31-2012.00,Occupational Therapy Aides,,PH,curated,,2026-10-31
+31-2021.00,Physical Therapist Assistants,,PH,curated,,2026-10-31
+31-2022.00,Physical Therapist Aides,,PH,curated,,2026-10-31
+31-9011.00,Massage Therapists,Massage Therapy NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Massage%20Therapy%20NC%20II.pdf,2026-10-31
+31-9091.00,Dental Assistants,Dental Laboratory Technology Services NC I,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Dental%20Laboratory%20Technology%20Services%20NC%20I.pdf,2026-10-31
+31-9092.00,Medical Assistants,,PH,curated,,2026-10-31
+31-9093.00,Medical Equipment Preparers,,PH,curated,,2026-10-31
+31-9094.00,Medical Transcriptionists,,PH,curated,,2026-10-31
+31-9095.00,Pharmacy Aides,Pharmacy Services NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Pharmacy%20Services%20NC%20III.pdf,2026-10-31
+31-9096.00,Veterinary Assistants and Laboratory Animal Caretakers,Animal Health Care and Management NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Animal%20Health%20Care%20and%20Management%20NC%20III.pdf,2026-10-31
+31-9097.00,Phlebotomists,,PH,curated,,2026-10-31
+31-9099.01,Speech-Language Pathology Assistants,,PH,curated,,2026-10-31
+31-9099.02,Endoscopy Technicians,,PH,curated,,2026-10-31
+33-1011.00,First-Line Supervisors of Correctional Officers,Contact Center Services NC II | Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+33-1012.00,First-Line Supervisors of Police and Detectives,Security Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Security%20Services%20NC%20II.pdf,2026-10-31
+33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers,,PH,curated,,2026-10-31
+33-1091.00,First-Line Supervisors of Security Workers,,PH,curated,,2026-10-31
+33-2011.00,Firefighters,,PH,curated,,2026-10-31
+33-2021.00,Fire Inspectors and Investigators,,PH,curated,,2026-10-31
+33-2022.00,Forest Fire Inspectors and Prevention Specialists,,PH,curated,,2026-10-31
+33-3011.00,Bailiffs,,PH,curated,,2026-10-31
+33-3012.00,Correctional Officers and Jailers,Contact Center Services NC II | Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+33-3021.00,Detectives and Criminal Investigators,Security Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Security%20Services%20NC%20II.pdf,2026-10-31
+33-3021.02,Police Identification and Records Officers,Contact Center Services NC II | Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+33-3021.06,Intelligence Analysts,,PH,curated,,2026-10-31
+33-3031.00,Fish and Game Wardens,Aquaculture (Grow-Out Operation) NC II | Fish Capture NC II | Fish Products Packaging NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/FINAL%20TR-%20Aquaculture%20(Grow-Out%20Operation)%20NC%20II_For%20Uploading.pdf,2026-11-12
+33-3041.00,Parking Enforcement Workers,,PH,curated,,2026-10-31
+33-3051.00,Police and Sheriff's Patrol Officers,Contact Center Services NC II | Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+33-3051.04,Customs and Border Protection Officers,Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+33-3052.00,Transit and Railroad Police,Security Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Security%20Services%20NC%20II.pdf,2026-10-31
+33-9011.00,Animal Control Workers,,PH,curated,,2026-10-31
+33-9021.00,Private Detectives and Investigators,Security Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Security%20Services%20NC%20II.pdf,2026-10-31
+33-9031.00,Gambling Surveillance Officers and Gambling Investigators,Contact Center Services NC II | Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+33-9032.00,Security Guards,Security Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Security%20Services%20NC%20II.pdf,2026-10-31
+33-9091.00,Crossing Guards and Flaggers,,PH,curated,,2026-10-31
+33-9092.00,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",,PH,curated,,2026-10-31
+33-9093.00,Transportation Security Screeners,,PH,curated,,2026-10-31
+33-9094.00,School Bus Monitors,,PH,curated,,2026-10-31
+33-9099.02,Retail Loss Prevention Specialists,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+35-1011.00,Chefs and Head Cooks,Cookery NC II | Food Production (Professional Cookery) NC III | Food Production (Professional Cookery) NC IV | Food Production (Bread and Patisserie) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Cookery%20NC%20II.pdf,2026-11-12
+35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers,Cookery NC II | Food Production (Professional Cookery) NC III | Food Production (Professional Cookery) NC IV | Food Production (Bread and Patisserie) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Cookery%20NC%20II.pdf,2026-11-12
+35-2011.00,"Cooks, Fast Food",Cookery NC II | Food Production (Professional Cookery) NC III | Food Production (Professional Cookery) NC IV | Food Production (Bread and Patisserie) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Cookery%20NC%20II.pdf,2026-11-12
+35-2012.00,"Cooks, Institution and Cafeteria",Cookery NC II | Food Production (Professional Cookery) NC III | Food Production (Professional Cookery) NC IV | Food Production (Bread and Patisserie) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Cookery%20NC%20II.pdf,2026-11-12
+35-2013.00,"Cooks, Private Household",Cookery NC II | Food Production (Professional Cookery) NC III | Food Production (Professional Cookery) NC IV | Food Production (Bread and Patisserie) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Cookery%20NC%20II.pdf,2026-11-12
+35-2014.00,"Cooks, Restaurant",Cookery NC II | Food Production (Professional Cookery) NC III | Food Production (Professional Cookery) NC IV | Food Production (Bread and Patisserie) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Cookery%20NC%20II.pdf,2026-11-12
+35-2015.00,"Cooks, Short Order",Cookery NC II | Food Production (Professional Cookery) NC III | Food Production (Professional Cookery) NC IV | Food Production (Bread and Patisserie) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Cookery%20NC%20II.pdf,2026-11-12
+35-2021.00,Food Preparation Workers,Cookery NC II | Food Production (Professional Cookery) NC III | Food Production (Professional Cookery) NC IV | Food Production (Bread and Patisserie) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Cookery%20NC%20II.pdf,2026-11-12
+35-3011.00,Bartenders,Food and Beverage Services NC II | Food and Beverage Services NC III | Bartending NC II | Barista NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Food%20and%20Beverage%20Services%20NC%20II%20ver2.pdf,2026-11-12
+35-3023.00,Fast Food and Counter Workers,,PH,curated,,2026-10-31
+35-3023.01,Baristas,Food and Beverage Services NC II | Food and Beverage Services NC III | Bartending NC II | Barista NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Food%20and%20Beverage%20Services%20NC%20II%20ver2.pdf,2026-11-12
+35-3031.00,Waiters and Waitresses,Food and Beverage Services NC II | Food and Beverage Services NC III | Bartending NC II | Barista NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Food%20and%20Beverage%20Services%20NC%20II%20ver2.pdf,2026-11-12
+35-3041.00,"Food Servers, Nonrestaurant",,PH,curated,,2026-10-31
+35-9011.00,Dining Room and Cafeteria Attendants and Bartender Helpers,Food and Beverage Services NC II | Food and Beverage Services NC III | Bartending NC II | Barista NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Food%20and%20Beverage%20Services%20NC%20II%20ver2.pdf,2026-11-12
+35-9021.00,Dishwashers,,PH,curated,,2026-10-31
+35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",,PH,curated,,2026-10-31
+37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,Housekeeping NC II | Housekeeping NC III | Housekeeping NC IV | Front Office Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Housekeeping%20NC%20II.pdf,2026-11-12
+37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",,PH,curated,,2026-10-31
+37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Housekeeping NC II | Housekeeping NC III | Housekeeping NC IV | Front Office Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Housekeeping%20NC%20II.pdf,2026-11-12
+37-2012.00,Maids and Housekeeping Cleaners,Housekeeping NC II | Housekeeping NC III | Housekeeping NC IV | Front Office Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Housekeeping%20NC%20II.pdf,2026-11-12
+37-2021.00,Pest Control Workers,,PH,curated,,2026-10-31
+37-3011.00,Landscaping and Groundskeeping Workers,,PH,curated,,2026-10-31
+37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",,PH,curated,,2026-10-31
+37-3013.00,Tree Trimmers and Pruners,,PH,curated,,2026-10-31
+39-1013.00,First-Line Supervisors of Gambling Services Workers,,PH,curated,,2026-10-31
+39-1014.00,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",,PH,curated,,2026-10-31
+39-1022.00,First-Line Supervisors of Personal Service Workers,,PH,curated,,2026-10-31
+39-2011.00,Animal Trainers,Animal Production (Ruminants) NC II | Animal Production (Swine) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/Animal%20Production%20(Ruminants)%20NC%20II.pdf,2026-10-31
+39-2021.00,Animal Caretakers,Animal Production (Ruminants) NC II | Animal Production (Swine) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/Animal%20Production%20(Ruminants)%20NC%20II.pdf,2026-10-31
+39-3011.00,Gambling Dealers,,PH,curated,,2026-10-31
+39-3012.00,Gambling and Sports Book Writers and Runners,,PH,curated,,2026-10-31
+39-3021.00,Motion Picture Projectionists,,PH,curated,,2026-10-31
+39-3031.00,"Ushers, Lobby Attendants, and Ticket Takers",,PH,curated,,2026-10-31
+39-3091.00,Amusement and Recreation Attendants,,PH,curated,,2026-10-31
+39-3092.00,Costume Attendants,,PH,curated,,2026-10-31
+39-3093.00,"Locker Room, Coatroom, and Dressing Room Attendants",,PH,curated,,2026-10-31
+39-4011.00,Embalmers,,PH,curated,,2026-10-31
+39-4012.00,Crematory Operators,,PH,curated,,2026-10-31
+39-4021.00,Funeral Attendants,,PH,curated,,2026-10-31
+39-4031.00,"Morticians, Undertakers, and Funeral Arrangers",,PH,curated,,2026-10-31
+39-5011.00,Barbers,Hairdressing NC II | Hairdressing NC III | Barbering NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/FINAL%20TR%20Hairdressing%20NC%20II_For%20Uploading.pdf,2026-11-12
+39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists",Hairdressing NC II | Hairdressing NC III | Barbering NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/FINAL%20TR%20Hairdressing%20NC%20II_For%20Uploading.pdf,2026-11-12
+39-5091.00,"Makeup Artists, Theatrical and Performance",Visual Graphic Design NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Visual%20Graphic%20Design%20NC%20III.pdf,2026-10-31
+39-5092.00,Manicurists and Pedicurists,Beauty Care (Nail Care) Services NC II | Beauty Care (Nail Enhancement Technology) Services NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/FINAL%20TR%20Beauty%20Care%20(Nail%20Care)%20Services%20NC%20II_For%20Uploading.pdf,2026-11-01
+39-5093.00,Shampooers,,PH,curated,,2026-10-31
+39-5094.00,Skincare Specialists,Beauty Care (Skin Care) Services NC II | Advanced Skin Care Services Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/Beauty%20Care%20(Skin)%20Services%20NC%20II.pdf,2026-11-01
+39-6011.00,Baggage Porters and Bellhops,,PH,curated,,2026-10-31
+39-6012.00,Concierges,,PH,curated,,2026-10-31
+39-7011.00,Tour Guides and Escorts,Tourism Promotion Services NC II | Travel Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Tourism%20Promotion%20Services%20NCII.pdf,2026-11-12
+39-7012.00,Travel Guides,Tourism Promotion Services NC II | Travel Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Tourism%20Promotion%20Services%20NCII.pdf,2026-11-12
+39-9011.00,Childcare Workers,Early Childhood Care and Development Services NC III | Caregiving (Newborn to Pre-Schooler) NC II | Caregiving (Grade Schooler to Adolescent) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Early%20Childhood%20Care%20and%20Development%20Services%20NC%20III%20v2%20-%20CSDD%20QSO.pdf,2026-11-12
+39-9011.01,Nannies,Early Childhood Care and Development Services NC III | Caregiving (Newborn to Pre-Schooler) NC II | Caregiving (Grade Schooler to Adolescent) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Early%20Childhood%20Care%20and%20Development%20Services%20NC%20III%20v2%20-%20CSDD%20QSO.pdf,2026-11-12
+39-9031.00,Exercise Trainers and Group Fitness Instructors,,PH,curated,,2026-10-31
+39-9032.00,Recreation Workers,,PH,curated,,2026-10-31
+39-9041.00,Residential Advisors,,PH,curated,,2026-10-31
+41-1011.00,First-Line Supervisors of Retail Sales Workers,Customer Services NC II | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20CUSTOMER%20SERVICES%20NC%20II.pdf,2026-11-12
+41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,Customer Services NC II | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20CUSTOMER%20SERVICES%20NC%20II.pdf,2026-11-12
+41-2011.00,Cashiers,Customer Services NC II | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20CUSTOMER%20SERVICES%20NC%20II.pdf,2026-11-12
+41-2012.00,Gambling Change Persons and Booth Cashiers,Customer Services NC II | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20CUSTOMER%20SERVICES%20NC%20II.pdf,2026-11-12
+41-2021.00,Counter and Rental Clerks,,PH,curated,,2026-10-31
+41-2022.00,Parts Salespersons,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+41-2031.00,Retail Salespersons,Customer Services NC II | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20CUSTOMER%20SERVICES%20NC%20II.pdf,2026-11-12
+41-3011.00,Advertising Sales Agents,Digital Marketing Level III | Manage Internet Marketing Level III,PH,curated,https://www.tesda.gov.ph/Downloadables/CS/DIGITAL-MARKETING-PQF-LEVEL-III.pdf,2026-11-12
+41-3021.00,Insurance Sales Agents,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+41-3031.00,"Securities, Commodities, and Financial Services Sales Agents",Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+41-3041.00,Travel Agents,Tourism Promotion Services NC II | Travel Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Tourism%20Promotion%20Services%20NCII.pdf,2026-11-12
+41-3091.00,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Customer Services NC II | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20CUSTOMER%20SERVICES%20NC%20II.pdf,2026-11-12
+41-4011.07,Solar Sales Representatives and Assessors,Customer Services NC II | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20CUSTOMER%20SERVICES%20NC%20II.pdf,2026-11-12
+41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",Customer Services NC II | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20CUSTOMER%20SERVICES%20NC%20II.pdf,2026-11-12
+41-9011.00,Demonstrators and Product Promoters,,PH,curated,,2026-10-31
+41-9012.00,Models,,PH,curated,,2026-10-31
+41-9021.00,Real Estate Brokers,,PH,curated,,2026-10-31
+41-9022.00,Real Estate Sales Agents,,PH,curated,,2026-10-31
+41-9031.00,Sales Engineers,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+41-9041.00,Telemarketers,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+41-9091.00,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,Contact Center Services NC II | Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+43-2011.00,"Switchboard Operators, Including Answering Service",,PH,curated,,2026-10-31
+43-2021.00,Telephone Operators,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-11-12
+43-3011.00,Bill and Account Collectors,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-11-12
+43-3021.00,Billing and Posting Clerks,,PH,curated,,2026-10-31
+43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks",Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+43-3041.00,Gambling Cage Workers,,PH,curated,,2026-10-31
+43-3051.00,Payroll and Timekeeping Clerks,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+43-3061.00,Procurement Clerks,,PH,curated,,2026-10-31
+43-3071.00,Tellers,,PH,curated,,2026-10-31
+43-4011.00,Brokerage Clerks,,PH,curated,,2026-10-31
+43-4021.00,Correspondence Clerks,,PH,curated,,2026-10-31
+43-4031.00,"Court, Municipal, and License Clerks",,PH,curated,,2026-10-31
+43-4041.00,"Credit Authorizers, Checkers, and Clerks",,PH,curated,,2026-11-12
+43-4051.00,Customer Service Representatives,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+43-4061.00,"Eligibility Interviewers, Government Programs",,PH,curated,,2026-10-31
+43-4071.00,File Clerks,Bookkeeping NC III | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+43-4081.00,"Hotel, Motel, and Resort Desk Clerks",Housekeeping NC II | Housekeeping NC III | Housekeeping NC IV | Front Office Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Housekeeping%20NC%20II.pdf,2026-11-12
+43-4111.00,"Interviewers, Except Eligibility and Loan",Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-10-31
+43-4121.00,"Library Assistants, Clerical",,PH,curated,,2026-10-31
+43-4131.00,Loan Interviewers and Clerks,Bookkeeping NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-10-31
+43-4141.00,New Accounts Clerks,,PH,curated,,2026-10-31
+43-4151.00,Order Clerks,,PH,curated,,2026-10-31
+43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping",Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+43-4171.00,Receptionists and Information Clerks,Bookkeeping NC III | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+43-4181.00,Reservation and Transportation Ticket Agents and Travel Clerks,Tourism Promotion Services NC II | Travel Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Tourism%20Promotion%20Services%20NCII.pdf,2026-11-12
+43-5011.00,Cargo and Freight Agents,Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+43-5011.01,Freight Forwarders,Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+43-5021.00,Couriers and Messengers,,PH,curated,,2026-10-31
+43-5031.00,Public Safety Telecommunicators,,PH,curated,,2026-10-31
+43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance",Security Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Security%20Services%20NC%20II.pdf,2026-10-31
+43-5041.00,"Meter Readers, Utilities",,PH,curated,,2026-10-31
+43-5051.00,Postal Service Clerks,,PH,curated,,2026-10-31
+43-5052.00,Postal Service Mail Carriers,,PH,curated,,2026-10-31
+43-5053.00,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",,PH,curated,,2026-10-31
+43-5061.00,"Production, Planning, and Expediting Clerks",,PH,curated,,2026-10-31
+43-5071.00,"Shipping, Receiving, and Inventory Clerks",Able Seafarer Deck NC II (II-5) | Able Seafarer Engine NC II (III-5),PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Able%20Seafarer%20Deck%20NC%20II%20(II-5).pdf,2026-10-31
+43-5111.00,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",,PH,curated,,2026-10-31
+43-6011.00,Executive Secretaries and Executive Administrative Assistants,Bookkeeping NC III | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+43-6012.00,Legal Secretaries and Administrative Assistants,Bookkeeping NC III | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+43-6013.00,Medical Secretaries and Administrative Assistants,Bookkeeping NC III | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Bookkeeping NC III | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+43-9021.00,Data Entry Keyers,Bookkeeping NC III | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+43-9022.00,Word Processors and Typists,,PH,curated,,2026-10-31
+43-9031.00,Desktop Publishers,,PH,curated,,2026-10-31
+43-9041.00,Insurance Claims and Policy Processing Clerks,,PH,curated,,2026-10-31
+43-9051.00,"Mail Clerks and Mail Machine Operators, Except Postal Service",,PH,curated,,2026-10-31
+43-9061.00,"Office Clerks, General",Bookkeeping NC III | Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+43-9071.00,"Office Machine Operators, Except Computer",Computer Systems Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-10-31
+43-9081.00,Proofreaders and Copy Markers,,PH,curated,,2026-10-31
+43-9111.00,Statistical Assistants,,PH,curated,,2026-10-31
+45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",Aquaculture (Grow-Out Operation) NC II | Fish Capture NC II | Fish Products Packaging NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/FINAL%20TR-%20Aquaculture%20(Grow-Out%20Operation)%20NC%20II_For%20Uploading.pdf,2026-11-12
+45-2011.00,Agricultural Inspectors,Agricultural Crops Production NC I | Agricultural Crops Production NC II | Agricultural Crops Production NC III | Organic Agriculture Production NC II | Agricultural Machinery Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Agricultural%20Crops%20Production%20NC%20I.pdf,2026-11-12
+45-2021.00,Animal Breeders,Animal Production (Ruminants) NC II | Animal Production (Swine) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/Animal%20Production%20(Ruminants)%20NC%20II.pdf,2026-10-31
+45-2041.00,"Graders and Sorters, Agricultural Products",Agricultural Crops Production NC I | Agricultural Crops Production NC II | Agricultural Crops Production NC III | Organic Agriculture Production NC II | Agricultural Machinery Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Agricultural%20Crops%20Production%20NC%20I.pdf,2026-11-12
+45-2091.00,Agricultural Equipment Operators,Agricultural Crops Production NC I | Agricultural Crops Production NC II | Agricultural Crops Production NC III | Organic Agriculture Production NC II | Agricultural Machinery Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Agricultural%20Crops%20Production%20NC%20I.pdf,2026-11-12
+45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Agricultural Crops Production NC I | Agricultural Crops Production NC II | Agricultural Crops Production NC III | Organic Agriculture Production NC II | Agricultural Machinery Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Agricultural%20Crops%20Production%20NC%20I.pdf,2026-11-12
+45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Agricultural Crops Production NC I | Agricultural Crops Production NC II | Agricultural Crops Production NC III | Organic Agriculture Production NC II | Agricultural Machinery Operation NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Agricultural%20Crops%20Production%20NC%20I.pdf,2026-11-12
+45-3031.00,Fishing and Hunting Workers,Aquaculture (Grow-Out Operation) NC II | Fish Capture NC II | Fish Products Packaging NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/FINAL%20TR-%20Aquaculture%20(Grow-Out%20Operation)%20NC%20II_For%20Uploading.pdf,2026-11-12
+45-4011.00,Forest and Conservation Workers,,PH,curated,,2026-10-31
+45-4021.00,Fallers,,PH,curated,,2026-10-31
+45-4022.00,Logging Equipment Operators,,PH,curated,,2026-10-31
+45-4023.00,Log Graders and Scalers,,PH,curated,,2026-10-31
+47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,,PH,curated,,2026-10-31
+47-1011.03,Solar Energy Installation Managers,,PH,curated,,2026-10-31
+47-2011.00,Boilermakers,,PH,curated,,2026-10-31
+47-2021.00,Brickmasons and Blockmasons,Masonry NC I | Masonry NC II | Masonry NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR_Masonry%20NC%20I.pdf,2026-11-12
+47-2022.00,Stonemasons,Masonry NC I | Masonry NC II | Masonry NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR_Masonry%20NC%20I.pdf,2026-11-12
+47-2031.00,Carpenters,Carpentry NC II | Carpentry NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Carpentry%20NC%20II%2010092019.pdf,2026-11-12
+47-2041.00,Carpet Installers,,PH,curated,,2026-10-31
+47-2042.00,"Floor Layers, Except Carpet, Wood, and Hard Tiles",,PH,curated,,2026-10-31
+47-2043.00,Floor Sanders and Finishers,,PH,curated,,2026-10-31
+47-2044.00,Tile and Stone Setters,,PH,curated,,2026-10-31
+47-2051.00,Cement Masons and Concrete Finishers,Masonry NC I | Masonry NC II | Masonry NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR_Masonry%20NC%20I.pdf,2026-11-12
+47-2053.00,Terrazzo Workers and Finishers,,PH,curated,,2026-10-31
+47-2061.00,Construction Laborers,,PH,curated,,2026-10-31
+47-2071.00,"Paving, Surfacing, and Tamping Equipment Operators",,PH,curated,,2026-10-31
+47-2072.00,Pile Driver Operators,,PH,curated,,2026-10-31
+47-2073.00,Operating Engineers and Other Construction Equipment Operators,,PH,curated,,2026-10-31
+47-2081.00,Drywall and Ceiling Tile Installers,,PH,curated,,2026-10-31
+47-2082.00,Tapers,,PH,curated,,2026-10-31
+47-2111.00,Electricians,Electrical Installation and Maintenance NC II | Electrical Installation and Maintenance NC III | Electrical Installation and Maintenance NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electrical%20Installation%20and%20Maintenance%20NC%20II.pdf,2026-11-12
+47-2121.00,Glaziers,,PH,curated,,2026-10-31
+47-2131.00,"Insulation Workers, Floor, Ceiling, and Wall",,PH,curated,,2026-10-31
+47-2132.00,"Insulation Workers, Mechanical",,PH,curated,,2026-10-31
+47-2141.00,"Painters, Construction and Maintenance",Construction Painting NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-CONSTRUCTION%20PAINTING%20NC%20II.pdf,2026-10-31
+47-2142.00,Paperhangers,,PH,curated,,2026-10-31
+47-2151.00,Pipelayers,,PH,curated,,2026-10-31
+47-2152.00,"Plumbers, Pipefitters, and Steamfitters",Plumbing NC I | Plumbing NC II | Plumbing NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Plumbing%20NC%20I.pdf,2026-11-12
+47-2152.04,Solar Thermal Installers and Technicians,,PH,curated,,2026-10-31
+47-2161.00,Plasterers and Stucco Masons,Masonry NC I | Masonry NC II | Masonry NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR_Masonry%20NC%20I.pdf,2026-11-12
+47-2171.00,Reinforcing Iron and Rebar Workers,,PH,curated,,2026-10-31
+47-2181.00,Roofers,,PH,curated,,2026-10-31
+47-2211.00,Sheet Metal Workers,,PH,curated,,2026-10-31
+47-2221.00,Structural Iron and Steel Workers,,PH,curated,,2026-10-31
+47-2231.00,Solar Photovoltaic Installers,,PH,curated,,2026-10-31
+47-3011.00,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Masonry NC I | Masonry NC II | Masonry NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR_Masonry%20NC%20I.pdf,2026-11-12
+47-3012.00,Helpers--Carpenters,Carpentry NC II | Carpentry NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Carpentry%20NC%20II%2010092019.pdf,2026-11-12
+47-3013.00,Helpers--Electricians,Electrical Installation and Maintenance NC II | Electrical Installation and Maintenance NC III | Electrical Installation and Maintenance NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electrical%20Installation%20and%20Maintenance%20NC%20II.pdf,2026-11-12
+47-3014.00,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Masonry NC I | Masonry NC II | Masonry NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR_Masonry%20NC%20I.pdf,2026-11-12
+47-3015.00,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Plumbing NC I | Plumbing NC II | Plumbing NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Plumbing%20NC%20I.pdf,2026-11-12
+47-3016.00,Helpers--Roofers,,PH,curated,,2026-10-31
+47-4011.00,Construction and Building Inspectors,,PH,curated,,2026-10-31
+47-4011.01,Energy Auditors,Bookkeeping NC III | Computerized Bookkeeping and Financial System Level IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20BOOKKEEPING%20NC%20III.pdf,2026-11-12
+47-4021.00,Elevator and Escalator Installers and Repairers,,PH,curated,,2026-10-31
+47-4031.00,Fence Erectors,,PH,curated,,2026-10-31
+47-4041.00,Hazardous Materials Removal Workers,,PH,curated,,2026-10-31
+47-4051.00,Highway Maintenance Workers,,PH,curated,,2026-10-31
+47-4061.00,Rail-Track Laying and Maintenance Equipment Operators,,PH,curated,,2026-10-31
+47-4071.00,Septic Tank Servicers and Sewer Pipe Cleaners,Dressmaking NC II | Tailoring NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Dressmaking%20NC%20II.pdf,2026-10-31
+47-4091.00,Segmental Pavers,,PH,curated,,2026-10-31
+47-4099.03,Weatherization Installers and Technicians,,PH,curated,,2026-10-31
+47-5011.00,"Derrick Operators, Oil and Gas",,PH,curated,,2026-10-31
+47-5012.00,"Rotary Drill Operators, Oil and Gas",,PH,curated,,2026-10-31
+47-5013.00,"Service Unit Operators, Oil and Gas",,PH,curated,,2026-10-31
+47-5022.00,"Excavating and Loading Machine and Dragline Operators, Surface Mining",,PH,curated,,2026-10-31
+47-5023.00,"Earth Drillers, Except Oil and Gas",,PH,curated,,2026-10-31
+47-5032.00,"Explosives Workers, Ordnance Handling Experts, and Blasters",,PH,curated,,2026-10-31
+47-5041.00,Continuous Mining Machine Operators,,PH,curated,,2026-10-31
+47-5043.00,"Roof Bolters, Mining",,PH,curated,,2026-10-31
+47-5044.00,"Loading and Moving Machine Operators, Underground Mining",,PH,curated,,2026-10-31
+47-5051.00,"Rock Splitters, Quarry",,PH,curated,,2026-10-31
+47-5071.00,"Roustabouts, Oil and Gas",,PH,curated,,2026-10-31
+47-5081.00,Helpers--Extraction Workers,,PH,curated,,2026-10-31
+49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",,PH,curated,,2026-10-31
+49-2011.00,"Computer, Automated Teller, and Office Machine Repairers",Computer Systems Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-10-31
+49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers",,PH,curated,,2026-10-31
+49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",Electronic Products Assembly and Servicing NC II | Computer Systems Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electronic%20Products%20Assembly%20and%20Servicing%20NC%20II.pdf,2026-11-12
+49-2091.00,Avionics Technicians,,PH,curated,,2026-10-31
+49-2092.00,"Electric Motor, Power Tool, and Related Repairers",,PH,curated,,2026-10-31
+49-2093.00,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Electrical Installation and Maintenance NC II | Electrical Installation and Maintenance NC III | Electrical Installation and Maintenance NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electrical%20Installation%20and%20Maintenance%20NC%20II.pdf,2026-11-12
+49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Electronic Products Assembly and Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electronic%20Products%20Assembly%20and%20Servicing%20NC%20II.pdf,2026-10-31
+49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Electronic Products Assembly and Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electronic%20Products%20Assembly%20and%20Servicing%20NC%20II.pdf,2026-10-31
+49-2096.00,"Electronic Equipment Installers and Repairers, Motor Vehicles",Electronic Products Assembly and Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electronic%20Products%20Assembly%20and%20Servicing%20NC%20II.pdf,2026-10-31
+49-2097.00,Audiovisual Equipment Installers and Repairers,,PH,curated,,2026-10-31
+49-2098.00,Security and Fire Alarm Systems Installers,,PH,curated,,2026-10-31
+49-3011.00,Aircraft Mechanics and Service Technicians,,PH,curated,,2026-10-31
+49-3021.00,Automotive Body and Related Repairers,Automotive Servicing (Engine Repair) NC II | Automotive Servicing (Chassis Repair) NC II | Automotive Servicing (Electrical Repair) NC II | Automotive Diagnosis (Engine) NC III | Automotive Diagnosis (Chassis) NC III | Automotive Servicing NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Automotive%20Servicing%20(Engine%20Repair)%20NC%20II%20v2.pdf,2026-11-12
+49-3022.00,Automotive Glass Installers and Repairers,Automotive Servicing (Engine Repair) NC II | Automotive Servicing (Chassis Repair) NC II | Automotive Servicing (Electrical Repair) NC II | Automotive Diagnosis (Engine) NC III | Automotive Diagnosis (Chassis) NC III | Automotive Servicing NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Automotive%20Servicing%20(Engine%20Repair)%20NC%20II%20v2.pdf,2026-11-12
+49-3023.00,Automotive Service Technicians and Mechanics,Automotive Servicing (Engine Repair) NC II | Automotive Servicing (Chassis Repair) NC II | Automotive Servicing (Electrical Repair) NC II | Automotive Diagnosis (Engine) NC III | Automotive Diagnosis (Chassis) NC III | Automotive Servicing NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Automotive%20Servicing%20(Engine%20Repair)%20NC%20II%20v2.pdf,2026-11-12
+49-3031.00,Bus and Truck Mechanics and Diesel Engine Specialists,Automotive Servicing (Engine Repair) NC II | Automotive Servicing (Chassis Repair) NC II | Automotive Servicing (Electrical Repair) NC II | Automotive Diagnosis (Engine) NC III | Automotive Diagnosis (Chassis) NC III | Automotive Servicing NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Automotive%20Servicing%20(Engine%20Repair)%20NC%20II%20v2.pdf,2026-11-12
+49-3041.00,Farm Equipment Mechanics and Service Technicians,,PH,curated,,2026-10-31
+49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines",,PH,curated,,2026-10-31
+49-3043.00,Rail Car Repairers,,PH,curated,,2026-10-31
+49-3051.00,Motorboat Mechanics and Service Technicians,,PH,curated,,2026-10-31
+49-3052.00,Motorcycle Mechanics,Automotive Servicing (Engine Repair) NC II | Automotive Servicing (Chassis Repair) NC II | Automotive Servicing (Electrical Repair) NC II | Automotive Diagnosis (Engine) NC III | Automotive Diagnosis (Chassis) NC III | Automotive Servicing NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Automotive%20Servicing%20(Engine%20Repair)%20NC%20II%20v2.pdf,2026-11-12
+49-3053.00,Outdoor Power Equipment and Other Small Engine Mechanics,,PH,curated,,2026-10-31
+49-3091.00,Bicycle Repairers,,PH,curated,,2026-10-31
+49-3092.00,Recreational Vehicle Service Technicians,,PH,curated,,2026-10-31
+49-3093.00,Tire Repairers and Changers,,PH,curated,,2026-10-31
+49-9011.00,Mechanical Door Repairers,,PH,curated,,2026-10-31
+49-9012.00,"Control and Valve Installers and Repairers, Except Mechanical Door",,PH,curated,,2026-10-31
+49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",,PH,curated,,2026-10-31
+49-9031.00,Home Appliance Repairers,,PH,curated,,2026-10-31
+49-9041.00,Industrial Machinery Mechanics,,PH,curated,,2026-10-31
+49-9043.00,"Maintenance Workers, Machinery",,PH,curated,,2026-10-31
+49-9044.00,Millwrights,,PH,curated,,2026-10-31
+49-9045.00,"Refractory Materials Repairers, Except Brickmasons",Masonry NC I | Masonry NC II | Masonry NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR_Masonry%20NC%20I.pdf,2026-11-12
+49-9051.00,Electrical Power-Line Installers and Repairers,Electrical Installation and Maintenance NC II | Electrical Installation and Maintenance NC III | Electrical Installation and Maintenance NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electrical%20Installation%20and%20Maintenance%20NC%20II.pdf,2026-11-12
+49-9052.00,Telecommunications Line Installers and Repairers,Electronic Products Assembly and Servicing NC II | Computer Systems Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electronic%20Products%20Assembly%20and%20Servicing%20NC%20II.pdf,2026-11-12
+49-9061.00,Camera and Photographic Equipment Repairers,Photography NC II | Visual Graphic Design NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Photography%20NC%20II.pdf,2026-11-12
+49-9062.00,Medical Equipment Repairers,,PH,curated,,2026-10-31
+49-9063.00,Musical Instrument Repairers and Tuners,,PH,curated,,2026-10-31
+49-9064.00,Watch and Clock Repairers,,PH,curated,,2026-10-31
+49-9071.00,"Maintenance and Repair Workers, General",,PH,curated,,2026-10-31
+49-9081.00,Wind Turbine Service Technicians,,PH,curated,,2026-10-31
+49-9091.00,"Coin, Vending, and Amusement Machine Servicers and Repairers",,PH,curated,,2026-10-31
+49-9092.00,Commercial Divers,,PH,curated,,2026-10-31
+49-9094.00,Locksmiths and Safe Repairers,,PH,curated,,2026-10-31
+49-9095.00,Manufactured Building and Mobile Home Installers,,PH,curated,,2026-10-31
+49-9096.00,Riggers,,PH,curated,,2026-10-31
+49-9097.00,Signal and Track Switch Repairers,,PH,curated,,2026-10-31
+49-9098.00,"Helpers--Installation, Maintenance, and Repair Workers",,PH,curated,,2026-10-31
+49-9099.01,Geothermal Technicians,,PH,curated,,2026-10-31
+51-1011.00,First-Line Supervisors of Production and Operating Workers,,PH,curated,,2026-10-31
+51-2011.00,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",,PH,curated,,2026-10-31
+51-2021.00,"Coil Winders, Tapers, and Finishers",,PH,curated,,2026-10-31
+51-2022.00,Electrical and Electronic Equipment Assemblers,Electronic Products Assembly and Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Electronic%20Products%20Assembly%20and%20Servicing%20NC%20II.pdf,2026-10-31
+51-2023.00,Electromechanical Equipment Assemblers,,PH,curated,,2026-10-31
+51-2031.00,Engine and Other Machine Assemblers,,PH,curated,,2026-10-31
+51-2041.00,Structural Metal Fabricators and Fitters,,PH,curated,,2026-10-31
+51-2051.00,Fiberglass Laminators and Fabricators,,PH,curated,,2026-10-31
+51-2061.00,Timing Device Assemblers and Adjusters,,PH,curated,,2026-10-31
+51-2092.00,Team Assemblers,,PH,curated,,2026-10-31
+51-3011.00,Bakers,Cookery NC II | Food Production (Professional Cookery) NC III | Food Production (Professional Cookery) NC IV | Food Production (Bread and Patisserie) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Cookery%20NC%20II.pdf,2026-11-12
+51-3021.00,Butchers and Meat Cutters,,PH,curated,,2026-10-31
+51-3022.00,"Meat, Poultry, and Fish Cutters and Trimmers",Aquaculture (Grow-Out Operation) NC II | Fish Capture NC II | Fish Products Packaging NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/FINAL%20TR-%20Aquaculture%20(Grow-Out%20Operation)%20NC%20II_For%20Uploading.pdf,2026-11-12
+51-3023.00,Slaughterers and Meat Packers,,PH,curated,,2026-10-31
+51-3091.00,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",,PH,curated,,2026-10-31
+51-3092.00,Food Batchmakers,,PH,curated,,2026-10-31
+51-3093.00,Food Cooking Machine Operators and Tenders,Cookery NC II | Food Production (Professional Cookery) NC III | Food Production (Professional Cookery) NC IV | Food Production (Bread and Patisserie) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Cookery%20NC%20II.pdf,2026-11-12
+51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",,PH,curated,,2026-10-31
+51-4022.00,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",,PH,curated,,2026-10-31
+51-4023.00,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",,PH,curated,,2026-10-31
+51-4031.00,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",,PH,curated,,2026-10-31
+51-4032.00,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",CNC Lathe Machine Operation NC II | CNC Milling Machine Operation NC II | Machining NC II | Machining NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/CNC%20Lathe%20Machine%20Operation%20NC%20II.pdf,2026-11-12
+51-4033.00,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",CNC Lathe Machine Operation NC II | CNC Milling Machine Operation NC II | Machining NC II | Machining NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/CNC%20Lathe%20Machine%20Operation%20NC%20II.pdf,2026-11-12
+51-4034.00,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",CNC Lathe Machine Operation NC II | CNC Milling Machine Operation NC II | Machining NC II | Machining NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/CNC%20Lathe%20Machine%20Operation%20NC%20II.pdf,2026-11-12
+51-4035.00,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",,PH,curated,,2026-10-31
+51-4041.00,Machinists,CNC Lathe Machine Operation NC II | CNC Milling Machine Operation NC II | Machining NC II | Machining NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/CNC%20Lathe%20Machine%20Operation%20NC%20II.pdf,2026-11-12
+51-4051.00,Metal-Refining Furnace Operators and Tenders,,PH,curated,,2026-10-31
+51-4052.00,"Pourers and Casters, Metal",,PH,curated,,2026-10-31
+51-4061.00,"Model Makers, Metal and Plastic",,PH,curated,,2026-10-31
+51-4062.00,"Patternmakers, Metal and Plastic",,PH,curated,,2026-10-31
+51-4071.00,Foundry Mold and Coremakers,,PH,curated,,2026-10-31
+51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",,PH,curated,,2026-10-31
+51-4081.00,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",CNC Lathe Machine Operation NC II | CNC Milling Machine Operation NC II | Machining NC II | Machining NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/CNC%20Lathe%20Machine%20Operation%20NC%20II.pdf,2026-11-12
+51-4111.00,Tool and Die Makers,CNC Lathe Machine Operation NC II | CNC Milling Machine Operation NC II | Machining NC II | Machining NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/CNC%20Lathe%20Machine%20Operation%20NC%20II.pdf,2026-11-12
+51-4121.00,"Welders, Cutters, Solderers, and Brazers",Manual Metal Arc Welding (MMAW) NC II | Manual Metal Arc Welding (MMAW) NC III | Gas Metal Arc Welding (GMAW) NC II | Gas Tungsten Arc Welding (GTAW) NC II | Flux-Cored Arc Welding (FCAW) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20%20Manual%20Metal%20Arc%20Welding%20(MMAW)%20NC%20II.pdf,2026-11-12
+51-4122.00,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Manual Metal Arc Welding (MMAW) NC II | Manual Metal Arc Welding (MMAW) NC III | Gas Metal Arc Welding (GMAW) NC II | Gas Tungsten Arc Welding (GTAW) NC II | Flux-Cored Arc Welding (FCAW) NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20%20Manual%20Metal%20Arc%20Welding%20(MMAW)%20NC%20II.pdf,2026-11-12
+51-4191.00,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",,PH,curated,,2026-10-31
+51-4192.00,"Layout Workers, Metal and Plastic",,PH,curated,,2026-10-31
+51-4193.00,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",,PH,curated,,2026-10-31
+51-4194.00,"Tool Grinders, Filers, and Sharpeners",,PH,curated,,2026-10-31
+51-5111.00,Prepress Technicians and Workers,,PH,curated,,2026-10-31
+51-5112.00,Printing Press Operators,,PH,curated,,2026-10-31
+51-5113.00,Print Binding and Finishing Workers,,PH,curated,,2026-10-31
+51-6011.00,Laundry and Dry-Cleaning Workers,,PH,curated,,2026-10-31
+51-6021.00,"Pressers, Textile, Garment, and Related Materials",Dressmaking NC II | Tailoring NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Dressmaking%20NC%20II.pdf,2026-10-31
+51-6031.00,Sewing Machine Operators,Dressmaking NC II | Tailoring NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Dressmaking%20NC%20II.pdf,2026-10-31
+51-6041.00,Shoe and Leather Workers and Repairers,,PH,curated,,2026-10-31
+51-6042.00,Shoe Machine Operators and Tenders,,PH,curated,,2026-10-31
+51-6051.00,"Sewers, Hand",Dressmaking NC II | Tailoring NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Dressmaking%20NC%20II.pdf,2026-10-31
+51-6052.00,"Tailors, Dressmakers, and Custom Sewers",Dressmaking NC II | Tailoring NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Dressmaking%20NC%20II.pdf,2026-10-31
+51-6061.00,Textile Bleaching and Dyeing Machine Operators and Tenders,Dressmaking NC II | Tailoring NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Dressmaking%20NC%20II.pdf,2026-10-31
+51-6062.00,"Textile Cutting Machine Setters, Operators, and Tenders",Dressmaking NC II | Tailoring NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Dressmaking%20NC%20II.pdf,2026-10-31
+51-6063.00,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Dressmaking NC II | Tailoring NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Dressmaking%20NC%20II.pdf,2026-10-31
+51-6064.00,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Dressmaking NC II | Tailoring NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Dressmaking%20NC%20II.pdf,2026-10-31
+51-6091.00,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",,PH,curated,,2026-10-31
+51-6092.00,Fabric and Apparel Patternmakers,,PH,curated,,2026-10-31
+51-6093.00,Upholsterers,Dressmaking NC II | Tailoring NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Dressmaking%20NC%20II.pdf,2026-10-31
+51-7011.00,Cabinetmakers and Bench Carpenters,Carpentry NC II | Carpentry NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Carpentry%20NC%20II%2010092019.pdf,2026-11-12
+51-7021.00,Furniture Finishers,,PH,curated,,2026-10-31
+51-7031.00,"Model Makers, Wood",,PH,curated,,2026-10-31
+51-7032.00,"Patternmakers, Wood",,PH,curated,,2026-10-31
+51-7041.00,"Sawing Machine Setters, Operators, and Tenders, Wood",,PH,curated,,2026-10-31
+51-7042.00,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Carpentry NC II | Carpentry NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Carpentry%20NC%20II%2010092019.pdf,2026-11-12
+51-8011.00,Nuclear Power Reactor Operators,,PH,curated,,2026-10-31
+51-8012.00,Power Distributors and Dispatchers,,PH,curated,,2026-10-31
+51-8013.00,Power Plant Operators,,PH,curated,,2026-10-31
+51-8013.03,Biomass Plant Technicians,,PH,curated,,2026-10-31
+51-8013.04,Hydroelectric Plant Technicians,,PH,curated,,2026-10-31
+51-8021.00,Stationary Engineers and Boiler Operators,,PH,curated,,2026-10-31
+51-8031.00,Water and Wastewater Treatment Plant and System Operators,,PH,curated,,2026-10-31
+51-8091.00,Chemical Plant and System Operators,,PH,curated,,2026-10-31
+51-8092.00,Gas Plant Operators,,PH,curated,,2026-10-31
+51-8093.00,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",,PH,curated,,2026-10-31
+51-8099.01,Biofuels Processing Technicians,,PH,curated,,2026-10-31
+51-9011.00,Chemical Equipment Operators and Tenders,,PH,curated,,2026-10-31
+51-9012.00,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",,PH,curated,,2026-10-31
+51-9021.00,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",,PH,curated,,2026-10-31
+51-9022.00,"Grinding and Polishing Workers, Hand",,PH,curated,,2026-10-31
+51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders",,PH,curated,,2026-10-31
+51-9031.00,"Cutters and Trimmers, Hand",,PH,curated,,2026-10-31
+51-9032.00,"Cutting and Slicing Machine Setters, Operators, and Tenders",,PH,curated,,2026-10-31
+51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",,PH,curated,,2026-10-31
+51-9051.00,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",,PH,curated,,2026-10-31
+51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",,PH,curated,,2026-10-31
+51-9071.00,Jewelers and Precious Stone and Metal Workers,,PH,curated,,2026-10-31
+51-9071.06,Gem and Diamond Workers,,PH,curated,,2026-10-31
+51-9081.00,Dental Laboratory Technicians,Dental Laboratory Technology Services NC I,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Dental%20Laboratory%20Technology%20Services%20NC%20I.pdf,2026-10-31
+51-9082.00,Medical Appliance Technicians,,PH,curated,,2026-10-31
+51-9083.00,Ophthalmic Laboratory Technicians,,PH,curated,,2026-10-31
+51-9111.00,Packaging and Filling Machine Operators and Tenders,,PH,curated,,2026-10-31
+51-9123.00,"Painting, Coating, and Decorating Workers",,PH,curated,,2026-10-31
+51-9124.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",,PH,curated,,2026-10-31
+51-9141.00,Semiconductor Processing Technicians,,PH,curated,,2026-10-31
+51-9151.00,Photographic Process Workers and Processing Machine Operators,Photography NC II | Visual Graphic Design NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Photography%20NC%20II.pdf,2026-11-12
+51-9161.00,Computer Numerically Controlled Tool Operators,Computer Systems Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-10-31
+51-9162.00,Computer Numerically Controlled Tool Programmers,Computer Systems Servicing NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Computer%20Systems%20Servicing%20NC%20II%20.pdf,2026-10-31
+51-9191.00,Adhesive Bonding Machine Operators and Tenders,,PH,curated,,2026-10-31
+51-9192.00,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",,PH,curated,,2026-10-31
+51-9193.00,Cooling and Freezing Equipment Operators and Tenders,,PH,curated,,2026-10-31
+51-9194.00,Etchers and Engravers,,PH,curated,,2026-10-31
+51-9195.00,"Molders, Shapers, and Casters, Except Metal and Plastic",,PH,curated,,2026-10-31
+51-9195.03,"Stone Cutters and Carvers, Manufacturing",,PH,curated,,2026-10-31
+51-9195.04,"Glass Blowers, Molders, Benders, and Finishers",,PH,curated,,2026-10-31
+51-9195.05,"Potters, Manufacturing",,PH,curated,,2026-10-31
+51-9196.00,"Paper Goods Machine Setters, Operators, and Tenders",,PH,curated,,2026-10-31
+51-9197.00,Tire Builders,,PH,curated,,2026-10-31
+51-9198.00,Helpers--Production Workers,,PH,curated,,2026-10-31
+53-1041.00,Aircraft Cargo Handling Supervisors,Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+53-1042.00,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",,PH,curated,,2026-10-31
+53-1042.01,Recycling Coordinators,,PH,curated,,2026-10-31
+53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,,PH,curated,,2026-10-31
+53-1044.00,First-Line Supervisors of Passenger Attendants,,PH,curated,,2026-10-31
+53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",,PH,curated,,2026-10-31
+53-2012.00,Commercial Pilots,,PH,curated,,2026-10-31
+53-2021.00,Air Traffic Controllers,,PH,curated,,2026-10-31
+53-2022.00,Airfield Operations Specialists,,PH,curated,,2026-10-31
+53-2031.00,Flight Attendants,Tourism Promotion Services NC II | Travel Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Tourism%20Promotion%20Services%20NCII.pdf,2026-11-12
+53-3011.00,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",,PH,curated,,2026-10-31
+53-3031.00,Driver/Sales Workers,Contact Center Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Contact%20Center%20Services%20NC%20II.pdf,2026-10-31
+53-3032.00,Heavy and Tractor-Trailer Truck Drivers,Driving NC II | Driving (Passenger Bus/Straight Truck) NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20DRIVING%20NC%20II.pdf,2026-10-31
+53-3033.00,Light Truck Drivers,Driving NC II | Driving (Passenger Bus/Straight Truck) NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20DRIVING%20NC%20II.pdf,2026-10-31
+53-3051.00,"Bus Drivers, School",Driving NC II | Driving (Passenger Bus/Straight Truck) NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20DRIVING%20NC%20II.pdf,2026-10-31
+53-3052.00,"Bus Drivers, Transit and Intercity",Driving NC II | Driving (Passenger Bus/Straight Truck) NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20DRIVING%20NC%20II.pdf,2026-10-31
+53-3053.00,Shuttle Drivers and Chauffeurs,Driving NC II | Driving (Passenger Bus/Straight Truck) NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20DRIVING%20NC%20II.pdf,2026-10-31
+53-3054.00,Taxi Drivers,Driving NC II | Driving (Passenger Bus/Straight Truck) NC III,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20DRIVING%20NC%20II.pdf,2026-10-31
+53-4011.00,Locomotive Engineers,,PH,curated,,2026-10-31
+53-4013.00,"Rail Yard Engineers, Dinkey Operators, and Hostlers",,PH,curated,,2026-10-31
+53-4022.00,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",,PH,curated,,2026-10-31
+53-4031.00,Railroad Conductors and Yardmasters,,PH,curated,,2026-10-31
+53-4041.00,Subway and Streetcar Operators,,PH,curated,,2026-10-31
+53-5011.00,Sailors and Marine Oilers,Able Seafarer Deck NC II (II-5) | Able Seafarer Engine NC II (III-5),PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Able%20Seafarer%20Deck%20NC%20II%20(II-5).pdf,2026-10-31
+53-5021.00,"Captains, Mates, and Pilots of Water Vessels",,PH,curated,,2026-10-31
+53-5022.00,Motorboat Operators,,PH,curated,,2026-10-31
+53-5031.00,Ship Engineers,Able Seafarer Deck NC II (II-5) | Able Seafarer Engine NC II (III-5),PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Able%20Seafarer%20Deck%20NC%20II%20(II-5).pdf,2026-10-31
+53-6011.00,Bridge and Lock Tenders,,PH,curated,,2026-10-31
+53-6021.00,Parking Attendants,,PH,curated,,2026-10-31
+53-6031.00,Automotive and Watercraft Service Attendants,Automotive Servicing (Engine Repair) NC II | Automotive Servicing (Chassis Repair) NC II | Automotive Servicing (Electrical Repair) NC II | Automotive Diagnosis (Engine) NC III | Automotive Diagnosis (Chassis) NC III | Automotive Servicing NC IV,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20-%20Automotive%20Servicing%20(Engine%20Repair)%20NC%20II%20v2.pdf,2026-11-12
+53-6032.00,Aircraft Service Attendants,,PH,curated,,2026-10-31
+53-6041.00,Traffic Technicians,,PH,curated,,2026-10-31
+53-6051.00,Transportation Inspectors,,PH,curated,,2026-10-31
+53-6051.01,Aviation Inspectors,,PH,curated,,2026-10-31
+53-6051.07,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",,PH,curated,,2026-10-31
+53-6061.00,Passenger Attendants,,PH,curated,,2026-10-31
+53-7011.00,Conveyor Operators and Tenders,,PH,curated,,2026-10-31
+53-7021.00,Crane and Tower Operators,,PH,curated,,2026-10-31
+53-7031.00,Dredge Operators,,PH,curated,,2026-10-31
+53-7041.00,Hoist and Winch Operators,,PH,curated,,2026-10-31
+53-7051.00,Industrial Truck and Tractor Operators,,PH,curated,,2026-10-31
+53-7061.00,Cleaners of Vehicles and Equipment,,PH,curated,,2026-10-31
+53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",Warehousing Services NC II,PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR-Wearhousing%20Services%20NC%20II.pdf,2026-10-31
+53-7062.04,Recycling and Reclamation Workers,,PH,curated,,2026-10-31
+53-7063.00,Machine Feeders and Offbearers,,PH,curated,,2026-10-31
+53-7064.00,"Packers and Packagers, Hand",,PH,curated,,2026-10-31
+53-7065.00,Stockers and Order Fillers,,PH,curated,,2026-10-31
+53-7071.00,Gas Compressor and Gas Pumping Station Operators,,PH,curated,,2026-10-31
+53-7072.00,"Pump Operators, Except Wellhead Pumpers",,PH,curated,,2026-10-31
+53-7073.00,Wellhead Pumpers,,PH,curated,,2026-10-31
+53-7081.00,Refuse and Recyclable Material Collectors,,PH,curated,,2026-10-31
+53-7121.00,"Tank Car, Truck, and Ship Loaders",Able Seafarer Deck NC II (II-5) | Able Seafarer Engine NC II (III-5),PH,curated,https://www.tesda.gov.ph/Downloadables/TRs/TR%20Able%20Seafarer%20Deck%20NC%20II%20(II-5).pdf,2026-10-31

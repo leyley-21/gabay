@@ -1,0 +1,74 @@
+[
+  {
+    "id": "R1",
+    "trait": "R",
+    "title": "I like to build things.",
+    "desc": "Mahilig akong gumawa o bumuo ng mga bagay."
+  },
+  {
+    "id": "I1",
+    "trait": "I",
+    "title": "I enjoy trying to figure out how things work.",
+    "desc": "Mahilig akong alamin kung paano gumagana ang mga bagay-bagay."
+  },
+  {
+    "id": "A1",
+    "trait": "A",
+    "title": "I am a creative person.",
+    "desc": "Malikhain akong tao."
+  },
+  {
+    "id": "S1",
+    "trait": "S",
+    "title": "I like helping people.",
+    "desc": "Mahilig akong tumulong sa ibang tao."
+  },
+  {
+    "id": "E1",
+    "trait": "E",
+    "title": "I would like to start my own business.",
+    "desc": "Gusto kong magkaroon ng sarili kong negosyo."
+  },
+  {
+    "id": "C1",
+    "trait": "C",
+    "title": "I would like to work in an office.",
+    "desc": "Gusto kong magtrabaho sa opisina."
+  },
+  {
+    "id": "R2",
+    "trait": "R",
+    "title": "I like putting things together or assembling things.",
+    "desc": "Mahilig akong magbuo o mag-assemble ng mga bagay."
+  },
+  {
+    "id": "I2",
+    "trait": "I",
+    "title": "I like to analyze things (problems/situations).",
+    "desc": "Mahilig akong magsuri ng mga problema at sitwasyon."
+  },
+  {
+    "id": "A2",
+    "trait": "A",
+    "title": "I like to read about art and music.",
+    "desc": "Mahilig akong magbasa tungkol sa sining at musika."
+  },
+  {
+    "id": "S2",
+    "trait": "S",
+    "title": "I like trying to help people solve their problems.",
+    "desc": "Gusto kong tumulong sa ibang tao na masolusyunan ang kanilang mga problema."
+  },
+  {
+    "id": "E2",
+    "trait": "E",
+    "title": "I like to lead.",
+    "desc": "Mahilig akong mamuno."
+  },
+  {
+    "id": "C2",
+    "trait": "C",
+    "title": "I like to organize things (files, desks/offices).",
+    "desc": "Mahilig akong mag-ayos ng mga gamit tulad ng mga papel, mesa, at opisina."
+  }
+]

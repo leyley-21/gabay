@@ -1,0 +1,2 @@
+# Optional; only for tools/rebuild_ph_reference.py
+beautifulsoup4>=4.12,<5
