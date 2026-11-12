@@ -1,8 +1,14 @@
-# app/__init__.py (at the root of the app folder)
-# Inside your routes or blueprint file (e.g., app/routes.py or app/__init__.py)
-from flask import render_template
+from flask import Flask
 
-@app.route('/')
-def home():
-    # Return your home HTML template or a welcome message
-    return render_template('index.html') # or return "Welcome to ALS Gabay!"
+def create_app():
+    app = Flask(__name__)
+    
+    # Define your routes inside the factory function here:
+    @app.route('/')
+    def home():
+        return "Welcome to ALS Gabay!"
+    
+    # Set any required config if needed (like your database)
+    app.config['DATABASE'] = '/var/lib/als_gabay/als_gabay.db'
+    
+    return app
